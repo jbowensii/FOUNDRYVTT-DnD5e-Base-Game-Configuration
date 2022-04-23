@@ -89,7 +89,7 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> BASE FOUNDRY ENHANCEMENTS </summary>
 <p>&nbsp;</p>
   
-  - ```5e Sheet Resources Plus```
+  - <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/_new#5e-sheet-resources-plus">```5e Sheet Resources Plus```</a>
   
   - ```Better Target```
   
