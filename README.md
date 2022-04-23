@@ -105,15 +105,15 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Compendium-Folders">```Compendium Folders```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dice so Nice!```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Dice so Nice!```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dice Tray```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-Tray">```Dice Tray```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Drag Ruler```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Drag-Ruler">```Drag Ruler```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Entice with Dice so Nice```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Entice with Dice so Nice```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Force Client Settings```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Force-Client-Settings">```Force Client Settings```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Forien's Copy Enviroment```</a>
   
@@ -121,13 +121,13 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Less Fog```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Lordu's Custom Dice for Dice so Nice```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Lordu's Custom Dice for Dice so Nice```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Multilevel Tokens```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Navbar Tweeks```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Nice More Dice```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Nice More Dice```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Parallaxia```</a>
   
@@ -153,7 +153,7 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Attacher```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```oken Info Icons```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Info Icons```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Variant Art```</a>
   
