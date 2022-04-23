@@ -13,57 +13,57 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> D&D 5e GAME AUTOMATION | EASE OF PLAY</summary>
 <p>&nbsp;</p>
   
-  - ```About Time```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```About Time```</a>
   
-  - ```Active Auras```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Active Auras```</a>
   
-  - ```Active Token Effects```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Active Token Effects```</a>
   
-  - ```Automated Animations```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Automated Animations```</a>
   
-  - ```Automated Evocations```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Automated Evocations```</a>
   
-  - ```DFReds Convenient Effects```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DFReds Convenient Effects```</a>
   
-  - ```DFreds Effects Panel```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DFreds Effects Panel```</a>
   
-  - ```Dynamic Active Effects SRD```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dynamic Active Effects SRD```</a>
   
-  - ```Dynamic effects using Active Effects```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dynamic effects using Active Effects```</a>
   
-  - ```FX Master```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```FX Master```</a>
   
-  - ```Health Estimate```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Health Estimate```</a>
   
-  - ```Illandril's Inventory Sorter (5e)```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Illandril's Inventory Sorter (5e)```</a>
   
-  - ```Item Containers```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Item Containers```</a>
   
-  - ```Item Macro```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Item Macro```</a>
   
-  - ```JB2A - Patreon Complete Collection```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```JB2A - Patreon Complete Collection```</a>
   
-  - ```Let Me Roll That For You!```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Let Me Roll That For You!```</a>
   
-  - ```Link Item and Resource```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Link Item and Resource```</a>
   
-  - ```Magic Items```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Magic Items```</a>
   
-  - ```Midi QOL```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Midi QOL```</a>
   
-  - ```Midi SRD```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Midi SRD```</a>
   
-  - ```Monk's Active Tile Triggers```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Monk's Active Tile Triggers```</a>
   
-  - ```Monk's Little Details```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Monk's Little Details```</a>
   
-  - ```Simple Calendar```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Simple Calendar```</a>
   
-  - ```Spell Templete Manager```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Spell Templete Manager```</a>
   
-  - ```Times Up```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Times Up```</a>
   
-  - ```Token Magic FX```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Magic FX```</a>
   
 <p>&nbsp;</p>  
 </details>
@@ -72,15 +72,15 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> GM ADDONS TO MAKE GAME PREP EASIER </summary>
 <p>&nbsp;</p>
   
-  - ```Advanced Drawing Tools```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Advanced Drawing Tools```</a>
   
-  - ```DF Architect```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DF Architect```</a>
   
-  - ```DF Scene Enhancement```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DF Scene Enhancement```</a>
   
-  - ```Grid Scale Menu```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Grid Scale Menu```</a>
   
-  - ```Moulinette```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Moulinette```</a>
   
 <p>&nbsp;</p>  
 </details>
@@ -89,71 +89,71 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> BASE FOUNDRY ENHANCEMENTS </summary>
 <p>&nbsp;</p>
   
-  - <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/5e-Sheet-Resource-Plus">```5e Sheet Resources Plus```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/5e-Sheet-Resource-Plus">```5e Sheet Resources Plus```</a>
   
-  - ```Better Target```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Better Target```</a>
   
-  - ```Changelogs & Conflicts```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Changelogs & Conflicts```</a>
   
-  - ```Cleaner Sheet Title Bar```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Cleaner Sheet Title Bar```</a>
   
-  - ```Combat Focus```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Combat Focus```</a>
   
-  - ```Compendium Folders```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Compendium Folders```</a>
   
-  - ```Dice so Nice!```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dice so Nice!```</a>
   
-  - ```Dice Tray```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Dice Tray```</a>
   
-  - ```Drag Ruler```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Drag Ruler```</a>
   
-  - ```Entice with Dice so Nice```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Entice with Dice so Nice```</a>
   
-  - ```Force Client Settings```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Force Client Settings```</a>
   
-  - ```Forien's Copy Enviroment```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Forien's Copy Enviroment```</a>
   
-  - ```Image Hover```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Image Hover```</a>
   
-  - ```Less Fog```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Less Fog```</a>
   
-  - ```Lordu's Custom Dice for Dice so Nice```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Lordu's Custom Dice for Dice so Nice```</a>
   
-  - ```Multilevel Tokens```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Multilevel Tokens```</a>
   
-  - ```Navbar Tweeks```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Navbar Tweeks```</a>
   
-  - ```Nice More Dice```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Nice More Dice```</a>
   
-  - ```Parallaxia```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Parallaxia```</a>
   
-  - ```Permission Viewer```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Permission Viewer```</a>
   
-  - ```Ping Logger```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Ping Logger```</a>
   
-  - ```Pings```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Pings```</a>
   
-  - ```PopOut!```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```PopOut!```</a>
   
-  - ```Select tool everywhere```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Select tool everywhere```</a>
   
-  - ```Sequencer```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Sequencer```</a>
   
-  - ```Settings Extender```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Settings Extender```</a>
   
-  - ```Smart Doors```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Smart Doors```</a>
   
-  - ```Tidy5e Sheet```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Tidy5e Sheet```</a>
   
-  - ```Token Action HUD```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Action HUD```</a>
   
-  - ```Token Attacher```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Attacher```</a>
   
-  - ```oken Info Icons```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```oken Info Icons```</a>
   
-  - ```Token Variant Art```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Variant Art```</a>
   
-  - ```Warpgate```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Warpgate```</a>
   
 <p>&nbsp;</p>  
 </details>
@@ -161,13 +161,12 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <details>
 <summary> INTEGRATIONS WITH OTHER SITES | APPLICATIONS </summary>
 <p>&nbsp;</p>
-
-    - ```D&D Beyond Importer```
   
-    - ```HTML to Scene```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DnD Beyond Importer```</a>
   
-    - ```Universal Battlemap Importer```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```HTML to Scene```</a>
   
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Universal Battlemap Importer```</a> 
 <p>&nbsp;</p>  
 </details>
 
@@ -175,15 +174,15 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> STILL EVALUATING </summary>
 <p>&nbsp;</p>
 
-  - ```Better Roofs```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Better Roofs```</a>
   
-  - ```Conditional Visibility```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Conditional Visibility```</a>
   
-  - ```Show Notes```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Show Notes```</a>
   
-  - ```Tagger```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Tagger```</a>
   
-  - ```Wall Height```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Wall Height```</a>
   
 <p>&nbsp;</p>  
 </details>
@@ -192,15 +191,15 @@ Some modules allow you to export thier settings to a .json file, I have added my
 <summary> CONTENT CREATORS I LOVE </summary>
 <p>&nbsp;</p>
   
-  - ```Atropos' Patreon Battlemaps Pack```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Atropos' Patreon Battlemaps Pack```</a>
   
-  - ```Bailywiki (everything)```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Bailywiki (everything)```</a>
   
-  - ```CyrensMaps of Undermountain```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```CyrensMaps of Undermountain```</a>
   
-  - ```The Griffon's Saddlebag```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```The Griffon's Saddlebag```</a>
   
-  - ```The Mad Cartographer```
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```The Mad Cartographer```</a>
   
 <p>&nbsp;</p>  
 </details>
