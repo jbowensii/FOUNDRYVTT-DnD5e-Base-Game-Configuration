@@ -76,15 +76,15 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
 <summary> GM ADDONS TO MAKE GAME PREP EASIER </summary>
 <p>&nbsp;</p>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Advanced Drawing Tools```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Advanced-Drawing-Tools">```Advanced Drawing Tools```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DF Architect```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/DF-Architect">```DF Architect```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```DF Scene Enhancement```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/DF-Scene-Enhancement">```DF Scene Enhancement```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Grid Scale Menu```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Grid-Scaler">```Grid Scale Menu```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Moulinette```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Moulinette-Suite">```Moulinette```</a>
   
 <p>&nbsp;</p>  
 </details>
