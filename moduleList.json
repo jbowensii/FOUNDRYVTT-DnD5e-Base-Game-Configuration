@@ -1,0 +1,405 @@
+{
+  "activeModules": [
+    {
+      "id": "resourcesplus",
+      "title": "5e-Sheet Resources Plus",
+      "version": ""
+    },
+    {
+      "id": "about-time",
+      "title": "About Time",
+      "version": ""
+    },
+    {
+      "id": "ActiveAuras",
+      "title": "Active-Auras",
+      "version": ""
+    },
+    {
+      "id": "ATL",
+      "title": "Active Token Effects",
+      "version": ""
+    },
+    {
+      "id": "advanced-macros",
+      "title": "Advanced Macros",
+      "version": ""
+    },
+    {
+      "id": "advancedspelleffects",
+      "title": "Advanced Spell Effects",
+      "version": ""
+    },
+    {
+      "id": "autoanimations",
+      "title": "Automated Animations",
+      "version": ""
+    },
+    {
+      "id": "automated-evocations",
+      "title": "Automated Evocations - Companion Manager",
+      "version": ""
+    },
+    {
+      "id": "better-target",
+      "title": "Better Target",
+      "version": ""
+    },
+    {
+      "id": "lib-changelogs",
+      "title": "Changelogs & Conflicts",
+      "version": ""
+    },
+    {
+      "id": "foundry-combat-focus",
+      "title": "Combat Focus",
+      "version": ""
+    },
+    {
+      "id": "compendium-folders",
+      "title": "Compendium Folders",
+      "version": ""
+    },
+    {
+      "id": "foundry-vtt-5e-phb-journal-styling",
+      "title": "D&D 5th Edition PHB Journal Styling",
+      "version": ""
+    },
+    {
+      "id": "ddb-importer",
+      "title": "D&D Beyond Importer",
+      "version": ""
+    },
+    {
+      "id": "df-architect",
+      "title": "DF Architect",
+      "version": ""
+    },
+    {
+      "id": "dfreds-convenient-effects",
+      "title": "DFreds Convenient Effects",
+      "version": ""
+    },
+    {
+      "id": "dfreds-effects-panel",
+      "title": "DFreds Effects Panel",
+      "version": ""
+    },
+    {
+      "id": "df-scene-enhance",
+      "title": "DF Scene Enhancement",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "Dynamic-Effects-SRD",
+      "title": "Dynamic Active Effects SRD",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "entice-with-dice-so-nice",
+      "title": "Entice with Dice so Nice",
+      "version": ""
+    },
+    {
+      "id": "force-client-settings",
+      "title": "Force Client Settings",
+      "version": ""
+    },
+    {
+      "id": "forien-copy-environment",
+      "title": "Forien's Copy Environment",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "scaleGrid",
+      "title": "Grid Scale Menu",
+      "version": ""
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "version": ""
+    },
+    {
+      "id": "html-to-scene",
+      "title": "HTML to Scene",
+      "version": ""
+    },
+    {
+      "id": "illandril-inventory-sorter",
+      "title": "Illandril's Inventory Sorter (5e)",
+      "version": ""
+    },
+    {
+      "id": "image-hover",
+      "title": "Image Hover",
+      "version": ""
+    },
+    {
+      "id": "itemcollection",
+      "title": "Item Containers",
+      "version": ""
+    },
+    {
+      "id": "itemacro",
+      "title": "Item Macro",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": "2"
+    },
+    {
+      "id": "keybind-lib",
+      "title": "Keybind Lib",
+      "version": ""
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "version": ""
+    },
+    {
+      "id": "lmrtfy",
+      "title": "Let Me Roll That For You!",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "scene-packer",
+      "title": "Library: Scene Packer",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "link-item-resource-5e",
+      "title": "Link Item and Resource DnD5e",
+      "version": ""
+    },
+    {
+      "id": "lordudice",
+      "title": "Lordu's Custom Dice for Dice So Nice",
+      "version": ""
+    },
+    {
+      "id": "magicitems",
+      "title": "Magic Items",
+      "version": ""
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "midi-srd",
+      "title": "Midi SRD",
+      "version": ""
+    },
+    {
+      "id": "monks-active-tiles",
+      "title": "Monk's Active Tile Triggers",
+      "version": ""
+    },
+    {
+      "id": "monks-little-details",
+      "title": "Monk's Little Details",
+      "version": ""
+    },
+    {
+      "id": "moulinette-core",
+      "title": "Moulinette Core",
+      "version": ""
+    },
+    {
+      "id": "moulinette-gameicons",
+      "title": "Moulinette Game Icons (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-imagesearch",
+      "title": "Moulinette Image Search (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-scenes",
+      "title": "Moulinette Scenes (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-sounds",
+      "title": "Moulinette Sounds & SoundPad (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-tiles",
+      "title": "Moulinette Tiles (module)",
+      "version": ""
+    },
+    {
+      "id": "multilevel-tokens",
+      "title": "Multilevel Tokens",
+      "version": ""
+    },
+    {
+      "id": "navbar-tweaks",
+      "title": "Navbar Tweaks",
+      "version": ""
+    },
+    {
+      "id": "nice-more-dice",
+      "title": "Nice More Dice",
+      "version": ""
+    },
+    {
+      "id": "parallaxia",
+      "title": "Parallaxia",
+      "version": ""
+    },
+    {
+      "id": "permission_viewer",
+      "title": "Permission Viewer",
+      "version": ""
+    },
+    {
+      "id": "ping-logger",
+      "title": "Ping Logger",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "popout",
+      "title": "PopOut!",
+      "version": ""
+    },
+    {
+      "id": "select-tool-everywhere",
+      "title": "Select tool everywhere",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "foundryvtt-simple-calendar",
+      "title": "Simple Calendar",
+      "version": ""
+    },
+    {
+      "id": "smart-doors",
+      "title": "Smart Doors",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "spellTemplateManager",
+      "title": "Spell Template Manager",
+      "version": ""
+    },
+    {
+      "id": "tagger",
+      "title": "Tagger",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "times-up",
+      "title": "Times Up",
+      "version": ""
+    },
+    {
+      "id": "token-action-hud",
+      "title": "Token Action HUD",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "token-info-icons",
+      "title": "Token Info Icons",
+      "version": ""
+    },
+    {
+      "id": "tokenmagic",
+      "title": "Token Magic FX",
+      "version": ""
+    },
+    {
+      "id": "token-variants",
+      "title": "Token Variant Art",
+      "version": ""
+    },
+    {
+      "id": "dd-import",
+      "title": "Universal Battlemap Importer",
+      "version": ""
+    },
+    {
+      "id": "warpgate",
+      "title": "Warp Gate",
+      "version": ""
+    }
+  ],
+  "inactiveModules": []
+}

@@ -1,0 +1,682 @@
+[
+  {
+    "key": "ActiveAuras.vertical-euclidean",
+    "value": "false"
+  },
+  {
+    "key": "ATL.conversion",
+    "value": "\"0.3.0\""
+  },
+  {
+    "key": "ATL.presets",
+    "value": "[{\"light\":{\"dim\":40,\"bright\":20,\"animation\":{\"type\":\"torch\",\"speed\":1,\"intensity\":1},\"color\":\"#a2642a\",\"alpha\":0.7,\"coloration\":0},\"id\":\"ATLPresetTorch\",\"name\":\"torch\"},{\"light\":{\"coloration\":0},\"id\":\"ATLPresetLantern\",\"name\":\"lantern\"},{\"light\":{\"coloration\":0},\"id\":\"ATLPresetCandle\",\"name\":\"candle\"},{\"light\":{\"coloration\":0},\"id\":\"ATLPresetFlashlight\",\"name\":\"flashlight\"}]"
+  },
+  {
+    "key": "autoanimations.aaAutorec",
+    "value": "{\"version\":4,\"search\":\"\",\"melee\":{\"0\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Dagger\",\"meleeType\":\"weapon\",\"animation\":\"dagger\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"1\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Flurry of Blows\",\"meleeType\":\"weapon\",\"animation\":\"flurryofblows\",\"variant\":\"physical\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"2\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Greataxe\",\"meleeType\":\"weapon\",\"animation\":\"greataxe\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"3\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Greatclub\",\"meleeType\":\"weapon\",\"animation\":\"greatclub\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"4\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Greatsword\",\"meleeType\":\"weapon\",\"animation\":\"greatsword\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"5\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Handaxe\",\"meleeType\":\"weapon\",\"animation\":\"handaxe\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"6\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Sword\",\"meleeType\":\"weapon\",\"animation\":\"sword\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"7\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Mace\",\"meleeType\":\"weapon\",\"animation\":\"mace\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"8\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Maul\",\"meleeType\":\"weapon\",\"animation\":\"maul\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"9\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Spear\",\"meleeType\":\"weapon\",\"animation\":\"spear\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"10\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Rapier\",\"meleeType\":\"weapon\",\"animation\":\"rapier\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"11\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Unarmed Strike\",\"meleeType\":\"weapon\",\"animation\":\"unarmedstrike\",\"variant\":\"physical\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false},\"a02\":{\"enable\":false}},\"switchType\":\"on\",\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"}},\"range\":{\"0\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Crossbow\",\"type\":\"weapon\",\"animation\":\"bolt\",\"variant\":\"physical\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"1\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Bow\",\"type\":\"weapon\",\"animation\":\"arrow\",\"variant\":\"regular\",\"color\":\"regular\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"weapon\"},\"2\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Disintegrate\",\"type\":\"spell\",\"animation\":\"disintegrate\",\"variant\":\"01\",\"color\":\"green\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"3\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Eldritch Blast\",\"type\":\"spell\",\"animation\":\"eldritchblast\",\"variant\":\"01\",\"color\":\"purple\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"4\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Fire Bolt\",\"type\":\"spell\",\"animation\":\"firebolt\",\"variant\":\"01\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"5\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Guiding Bolt\",\"type\":\"spell\",\"animation\":\"guidingbolt\",\"variant\":\"01\",\"color\":\"yellowblue\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"6\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Magic Missile\",\"type\":\"spell\",\"animation\":\"magicmissile\",\"variant\":\"01\",\"color\":\"purple\",\"repeat\":3,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"7\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Ray of Frost\",\"type\":\"spell\",\"animation\":\"rayoffrost\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"8\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Scorching Ray\",\"type\":\"spell\",\"animation\":\"scorchingray\",\"variant\":\"01\",\"color\":\"orange\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"9\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Witch Bolt\",\"type\":\"spell\",\"animation\":\"witchbolt\",\"variant\":\"01\",\"color\":\"blue\",\"repeat\":1,\"delay\":500,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"}},\"static\":{\"0\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Cure Wounds\",\"type\":\"targetDefault\",\"staticOptions\":\"staticSpells\",\"animation\":\"curewounds\",\"variant\":\"01\",\"color\":\"blue\",\"opacity\":null,\"persistent\":false,\"repeat\":1,\"delay\":500,\"scale\":1.5,\"below\":true,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"1\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Healing Word\",\"type\":\"targetDefault\",\"staticOptions\":\"staticSpells\",\"animation\":\"generichealing\",\"variant\":\"01\",\"color\":\"blue\",\"opacity\":null,\"persistent\":false,\"repeat\":1,\"delay\":500,\"scale\":1.5,\"below\":true,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"2\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Toll the Dead\",\"type\":\"target\",\"staticOptions\":\"staticSpells\",\"animation\":\"tollthedead\",\"variant\":\"complete\",\"color\":\"green\",\"opacity\":null,\"persistent\":false,\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"spell\"},\"3\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Bite\",\"type\":\"target\",\"staticOptions\":\"creature\",\"animation\":\"bite\",\"variant\":\"01\",\"color\":\"red\",\"opacity\":null,\"persistent\":false,\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"creature\"},\"4\":{\"hidden\":true,\"anim2d\":false,\"name\":\"Claws\",\"type\":\"target\",\"staticOptions\":\"creature\",\"animation\":\"claw\",\"variant\":\"01\",\"color\":\"red\",\"opacity\":null,\"persistent\":false,\"repeat\":1,\"delay\":500,\"scale\":1,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"levels3d\":{\"type\":\"\",\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"repeat\":null,\"arc\":null,\"delay\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"addexplosion\":{\"enable\":false,\"color01\":\"#000000\",\"color02\":\"#000000\",\"speed\":null,\"scale\":null,\"alpha\":null,\"gravity\":null,\"mass\":null,\"life\":null,\"emittersize\":null,\"rate\":null,\"sprite\":\"\"},\"sprite\":\"\"},\"menuType\":\"creature\"}},\"templates\":{\"0\":{\"hidden\":true,\"name\":\"Call Lightning\",\"type\":\"circle\",\"animation\":\"calllightning\",\"variant\":\"01\",\"color\":\"blueorange\",\"repeat\":1,\"delay\":500,\"scaleX\":1,\"scaleY\":1,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":true,\"persistType\":\"sequencerground\",\"audio\":{\"a01\":{\"enable\":false}},\"menuType\":\"circle\"},\"1\":{\"hidden\":true,\"name\":\"Fog Cloud\",\"type\":\"circle\",\"animation\":\"fogcloud\",\"variant\":\"01\",\"color\":\"white\",\"repeat\":1,\"delay\":500,\"scaleX\":1,\"scaleY\":1,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":true,\"persistType\":\"sequencerground\",\"audio\":{\"a01\":{\"enable\":false}},\"menuType\":\"circle\"},\"2\":{\"hidden\":true,\"name\":\"Thunderwave\",\"type\":\"rect\",\"animation\":\"thunderwave\",\"variant\":\"left\",\"color\":\"blue\",\"repeat\":3,\"delay\":500,\"scaleX\":1,\"scaleY\":1,\"below\":false,\"custom\":false,\"opacity\":0.75,\"removeTemplate\":true,\"persist\":false,\"audio\":{\"a01\":{\"enable\":false}},\"menuType\":\"square\"}},\"auras\":{\"0\":{\"hidden\":true,\"name\":\"Spirit Guardians\",\"animation\":\"spiritguardians\",\"variant\":\"01\",\"color\":\"darkblue\",\"scale\":7,\"opacity\":0.75,\"ignoretargets\":true,\"below\":false,\"custom\":false,\"audio\":{\"a01\":{\"enable\":false}},\"menuType\":\"spell\"},\"1\":{\"tint\":\"#ffffff\",\"opacity\":0.75,\"scale\":1,\"below\":true,\"menuType\":\"spell\"}},\"preset\":{\"0\":{\"hidden\":true,\"name\":\"Bardic Inspiration\",\"animation\":\"bardicinspiration\",\"scale\":1,\"below\":false,\"animateSelf\":true,\"selfAnimation\":\"music\",\"selfColor\":\"blue\",\"animateTarget\":true,\"targetAnimation\":\"bardicinspiration\",\"targetColor\":\"greenorange\",\"marker\":true,\"selfMarkerColor\":\"greenorange\",\"targetMarkerColor\":\"greenorange\",\"audio\":{\"a01\":{\"enable\":false}}},\"1\":{\"hidden\":true,\"name\":\"Bless\",\"animation\":\"bless\",\"scale\":1.5,\"below\":true,\"color\":\"yellow\",\"addCTA\":false,\"audio\":{\"a01\":{\"enable\":false}}},\"2\":{\"hidden\":true,\"name\":\"Shield\",\"animation\":\"shieldspell\",\"scale\":1,\"below\":false,\"variant\":\"01\",\"color\":\"blue\",\"endeffect\":\"outro_explode\",\"addCTA\":false,\"audio\":{\"a01\":{\"enable\":false}}},\"3\":{\"hidden\":true,\"name\":\"Misty Step\",\"animation\":\"teleportation\",\"measureType\":\"alternating\",\"range\":30,\"below\":false,\"subAnimation\":\"mistystep\",\"variant\":\"01\",\"color\":\"blue\",\"scale\":1.5,\"custom\":false,\"subAnimation02\":\"mistystep\",\"variant02\":\"02\",\"color02\":\"blue\",\"delay\":null,\"scale02\":1.5,\"custom02\":false,\"audio\":{\"a01\":{\"enable\":false}},\"menuType\":\"spell\",\"menuType02\":\"spell\"}}}"
+  },
+  {
+    "key": "autoanimations.CriticalAnimation",
+    "value": "\"\""
+  },
+  {
+    "key": "autoanimations.CriticalMissAnimation",
+    "value": "\"\""
+  },
+  {
+    "key": "autoanimations.hideFromPlayers",
+    "value": "true"
+  },
+  {
+    "key": "autoanimations.playonmiss",
+    "value": "true"
+  },
+  {
+    "key": "automated-evocations.autoclose",
+    "value": "true"
+  },
+  {
+    "key": "automated-evocations.restrictOwned",
+    "value": "true"
+  },
+  {
+    "key": "automated-evocations.storeonactor",
+    "value": "true"
+  },
+  {
+    "key": "core.animateRollTable",
+    "value": "false"
+  },
+  {
+    "key": "core.chatBubbles",
+    "value": "false"
+  },
+  {
+    "key": "core.chatBubblesPan",
+    "value": "false"
+  },
+  {
+    "key": "core.disableResolutionScaling",
+    "value": "true"
+  },
+  {
+    "key": "core.fontSize",
+    "value": "4"
+  },
+  {
+    "key": "core.leftClickRelease",
+    "value": "true"
+  },
+  {
+    "key": "core.maxFPS",
+    "value": "40"
+  },
+  {
+    "key": "core.notesDisplayToggle",
+    "value": "true"
+  },
+  {
+    "key": "core.nue.shownTips",
+    "value": "true"
+  },
+  {
+    "key": "core.performanceMode",
+    "value": "2"
+  },
+  {
+    "key": "core.time",
+    "value": "47178646627"
+  },
+  {
+    "key": "dae.ArmorDisabled",
+    "value": "1"
+  },
+  {
+    "key": "dae.confirmDelete",
+    "value": "true"
+  },
+  {
+    "key": "dae.DAENoTitleText",
+    "value": "true"
+  },
+  {
+    "key": "dae.DAETitleBar",
+    "value": "false"
+  },
+  {
+    "key": "dae.showInline",
+    "value": "true"
+  },
+  {
+    "key": "dd-import.importSettings",
+    "value": "{\"source\":\"s3\",\"bucket\":\"foundrybattlematvttbucket\",\"region\":\"us-east-2\",\"path\":\"WizardsModules/dbd5e-mybaseline/scenes\",\"offset\":0,\"padding\":0.25,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"
+  },
+  {
+    "key": "ddb-importer.add-damage-restrictions-to-hints",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.adventure-import-path",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.adventure-misc-path",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.adventure-upload-path",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.allow-all-sync",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.auto-create-compendium",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.character-link-title",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.cobalt-cookie-local",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.dynamic-sync",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.dynamic-sync-policy-xp",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.dynamic-sync-user",
+    "value": "\"AFrS2zaj0plHtoV6\""
+  },
+  {
+    "key": "ddb-importer.encounter-import-policy-missing-characters",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.entity-class-compendium",
+    "value": "\"world.ddb-test-world-classes\""
+  },
+  {
+    "key": "ddb-importer.entity-feat-compendium",
+    "value": "\"world.ddb-test-world-feats\""
+  },
+  {
+    "key": "ddb-importer.entity-feature-compendium",
+    "value": "\"world.ddb-test-world-class-features\""
+  },
+  {
+    "key": "ddb-importer.entity-item-compendium",
+    "value": "\"world.ddb-test-world-items\""
+  },
+  {
+    "key": "ddb-importer.entity-monster-compendium",
+    "value": "\"world.ddb-test-world-monsters\""
+  },
+  {
+    "key": "ddb-importer.entity-override-compendium",
+    "value": "\"world.ddb-test-world-override\""
+  },
+  {
+    "key": "ddb-importer.entity-race-compendium",
+    "value": "\"world.ddb-test-world-races\""
+  },
+  {
+    "key": "ddb-importer.entity-spell-compendium",
+    "value": "\"world.ddb-test-world-spells\""
+  },
+  {
+    "key": "ddb-importer.entity-table-compendium",
+    "value": "\"world.ddb-test-world-tables\""
+  },
+  {
+    "key": "ddb-importer.entity-trait-compendium",
+    "value": "\"world.ddb-test-world-racial-traits\""
+  },
+  {
+    "key": "ddb-importer.frame-image-upload-directory",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.image-upload-directory",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.link-title-colour-white",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.munching-policy-monster-retain-biography",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.munching-policy-update-world-monster-retain-biography",
+    "value": "false"
+  },
+  {
+    "key": "ddb-importer.munching-selection-compendium-folders-monster",
+    "value": "\"ALPHA\""
+  },
+  {
+    "key": "ddb-importer.munching-selection-compendium-folders-spell",
+    "value": "\"LEVEL\""
+  },
+  {
+    "key": "ddb-importer.other-image-upload-directory",
+    "value": "\"[data] ddb-images\""
+  },
+  {
+    "key": "ddb-importer.patreon-tier",
+    "value": "\"null\""
+  },
+  {
+    "key": "ddb-importer.patreon-user",
+    "value": "\"null\""
+  },
+  {
+    "key": "ddb-importer.restrict-to-trusted",
+    "value": "true"
+  },
+  {
+    "key": "ddb-importer.use-webp",
+    "value": "true"
+  },
+  {
+    "key": "df-architect.AltGridSnap.Enabled",
+    "value": "true"
+  },
+  {
+    "key": "df-architect.data-version",
+    "value": "{\"core\":\"9.269\",\"arch\":\"3.2.2\"}"
+  },
+  {
+    "key": "df-scene-enhance.nav-on-click-journal-only-one",
+    "value": "true"
+  },
+  {
+    "key": "df-scene-enhance.nav-on-click-player",
+    "value": "false"
+  },
+  {
+    "key": "dfreds-convenient-effects.chatMessagePermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dfreds-convenient-effects.controlsPermission",
+    "value": "\"1\""
+  },
+  {
+    "key": "dfreds-convenient-effects.customEffectsItemId",
+    "value": "\"XmtAyIFsAdjcDYDY\""
+  },
+  {
+    "key": "dfreds-convenient-effects.expandedFolders",
+    "value": "[\"Favorites\",\"custom\"]"
+  },
+  {
+    "key": "dfreds-convenient-effects.favoriteEffectNames",
+    "value": "[\"\"]"
+  },
+  {
+    "key": "dfreds-convenient-effects.modifyStatusEffects",
+    "value": "\"replace\""
+  },
+  {
+    "key": "dfreds-convenient-effects.prioritizeTargets",
+    "value": "true"
+  },
+  {
+    "key": "dfreds-convenient-effects.statusEffectNames",
+    "value": "[\"Blinded\",\"Charmed\",\"Concentrating\",\"Dead\",\"Deafened\",\"Exhaustion 1\",\"Exhaustion 2\",\"Exhaustion 3\",\"Exhaustion 4\",\"Exhaustion 5\",\"Frightened\",\"Grappled\",\"Incapacitated\",\"Paralyzed\",\"Petrified\",\"Poisoned\",\"Prone\",\"Restrained\",\"Stunned\",\"Unconscious\",\"Bladesong\"]"
+  },
+  {
+    "key": "dfreds-effects-panel.viewDetailsPermission",
+    "value": "\"1\""
+  },
+  {
+    "key": "dfreds-effects-panel.viewPermission",
+    "value": "\"4\""
+  },
+  {
+    "key": "dice-so-nice.formatVersion",
+    "value": "\"4.1\""
+  },
+  {
+    "key": "dice-so-nice.globalAnimationSpeed",
+    "value": "\"2\""
+  },
+  {
+    "key": "dice-so-nice.showGhostDice",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.allowPolymorphing",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.disableExperienceTracking",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.initiativeDexTiebreaker",
+    "value": "true"
+  },
+  {
+    "key": "dnd5e.systemMigrationVersion",
+    "value": "\"1.5.6\""
+  },
+  {
+    "key": "drag-ruler.allowPathfinding",
+    "value": "true"
+  },
+  {
+    "key": "drag-ruler.autoPathfinding",
+    "value": "false"
+  },
+  {
+    "key": "drag-ruler.clientDataVersion",
+    "value": "\"1.10.0\""
+  },
+  {
+    "key": "drag-ruler.dataVersion",
+    "value": "\"1.10.0\""
+  },
+  {
+    "key": "drag-ruler.showGMRulerToPlayers",
+    "value": "false"
+  },
+  {
+    "key": "force-client-settings.versionWorld",
+    "value": "\"2.0.0\""
+  },
+  {
+    "key": "foundry-combat-focus.chatHeight",
+    "value": "0"
+  },
+  {
+    "key": "foundryvtt-simple-calendar.current-date",
+    "value": "{\"year\":1495,\"month\":1,\"day\":1,\"seconds\":13027}"
+  },
+  {
+    "key": "foundryvtt-simple-calendar.general-configuration",
+    "value": "{\"name\":\"\",\"numericRepresentation\":null,\"gameWorldTimeIntegration\":\"mixed\",\"showClock\":true,\"pf2eSync\":true,\"dateFormat\":{\"date\":\"MMMM DD, YYYY\",\"time\":\"HH:mm:ss\",\"monthYear\":\"MMMM YAYYYYYZ\"},\"permissions\":{\"id\":\"8812c53a\",\"name\":\"\",\"numericRepresentation\":null,\"viewCalendar\":{\"player\":true,\"trustedPlayer\":true,\"assistantGameMaster\":true},\"addNotes\":{\"player\":false,\"trustedPlayer\":false,\"assistantGameMaster\":false},\"reorderNotes\":{\"player\":false,\"trustedPlayer\":false,\"assistantGameMaster\":false},\"changeDateTime\":{\"player\":false,\"trustedPlayer\":false,\"assistantGameMaster\":false}}}"
+  },
+  {
+    "key": "foundryvtt-simple-calendar.leap-year-rule",
+    "value": "{\"rule\":\"custom\",\"customMod\":4}"
+  },
+  {
+    "key": "foundryvtt-simple-calendar.year-config",
+    "value": "{\"id\":\"675c0728\",\"numericRepresentation\":1495,\"prefix\":\"\",\"postfix\":\" DR\",\"showWeekdayHeadings\":false,\"firstWeekday\":0,\"yearZero\":0,\"yearNames\":[],\"yearNamingRule\":\"default\",\"yearNamesStart\":0}"
+  },
+  {
+    "key": "fxmaster.clientMigration",
+    "value": "1"
+  },
+  {
+    "key": "fxmaster.migration",
+    "value": "2"
+  },
+  {
+    "key": "healthEstimate.core.stateNames",
+    "value": "\"Unconscious, Near Death, Badly Injured, Injured, Barely Injured, Fresh\""
+  },
+  {
+    "key": "image-hover.artType",
+    "value": "\"token\""
+  },
+  {
+    "key": "image-hover.permissionOnHover",
+    "value": "0"
+  },
+  {
+    "key": "itemcollection.goldConversion",
+    "value": "false"
+  },
+  {
+    "key": "JB2A_DnD5e.runonlyonce",
+    "value": "true"
+  },
+  {
+    "key": "lib-wrapper.high-performance-mode",
+    "value": "true"
+  },
+  {
+    "key": "midi-qol.AddChatDamageButtons",
+    "value": "\"gm\""
+  },
+  {
+    "key": "midi-qol.ColoredBorders",
+    "value": "\"borderNamesText\""
+  },
+  {
+    "key": "midi-qol.ConfigSettings",
+    "value": "{\"gmAutoAttack\":true,\"gmAutoFastForwardAttack\":true,\"gmAutoDamage\":\"onHit\",\"gmAutoFastForwardDamage\":true,\"speedItemRolls\":true,\"speedAbilityRolls\":true,\"showItemDetails\":\"pc\",\"itemTypeList\":[\"weapon\",\"equipment\",\"consumable\",\"tool\",\"loot\",\"class\",\"spell\",\"feat\",\"backpack\"],\"autoRollAttack\":true,\"autoFastForward\":\"all\",\"autoTarget\":\"wallsBlockIgnoreDefeated\",\"autoCheckHit\":\"all\",\"autoCheckSaves\":\"allNoRoll\",\"hideRollDetails\":\"hitDamage\",\"displaySaveDC\":false,\"checkSaveText\":true,\"defaultSaveMult\":0.5,\"autoRollDamage\":\"onHit\",\"autoApplyDamage\":\"yesCard\",\"damageImmunities\":\"immunityPhysical\",\"requireMagical\":\"off\",\"autoCEEffects\":\"cepri\",\"rangeTarget\":\"wallsBlockIgnoreDefeated\",\"playerRollSaves\":\"letmeQuery\",\"playerSaveTimeout\":20,\"reactionTimeout\":20,\"gmDoReactions\":\"allMI\",\"doReactions\":\"allMI\",\"showReactionAttackRoll\":\"all\",\"rollNPCSaves\":\"auto\",\"mergeCard\":true,\"mergeCardCondensed\":false,\"useTokenNames\":true,\"requiresTargets\":\"combat\",\"fumbleSound\":\"sounds/dice.wav\",\"diceSound\":\"sounds/dice.wav\",\"criticalSound\":\"sounds/dice.wav\",\"itemUseSound\":\"\",\"spellUseSound\":\"\",\"weaponUseSound\":\"\",\"potionUseSound\":\"\",\"fullAuto\":false,\"useCustomSounds\":false,\"customSoundsPlaylist\":\"\",\"keyMapping\":{\"DND5E.Advantage\":\"altKey\",\"DND5E.Disadvantage\":\"ctrlKey\",\"DND5E.Critical\":\"altKey\",\"DND5E.Versatile\":\"shiftKey\"},\"allowUseMacro\":true,\"rollOtherDamage\":\"activation\",\"removeButtons\":\"all\",\"gmRemoveButtons\":\"all\",\"concentrationAutomation\":true,\"singleConcentrationRoll\":true,\"removeConcentration\":true,\"optionalRulesEnabled\":true,\"itemRollStartWorkflow\":false,\"usePlayerPortrait\":true,\"optionalRules\":{\"invisAdvantage\":true,\"checkRange\":false,\"wallsBlockRange\":\"center\",\"nearbyFoe\":0,\"nearbyAllyRanged\":0,\"incapacitated\":true,\"removeHiddenInvis\":true,\"maxDRValue\":true,\"distanceIncludesHeight\":true,\"criticalSaves\":true,\"activeDefence\":false,\"challengeModeArmor\":false,\"challengeModeArmorScale\":false,\"checkFlanking\":\"off\",\"optionalCritRule\":-1,\"enableddbGL\":false},\"keepRollStats\":false,\"saveStatsEvery\":20,\"playerStatsOnly\":false,\"autoItemEffects\":\"applyRemove\",\"soptionalRulesEnabled\":true,\"rollNPCLinkedSaves\":\"auto\",\"convenientEffectsReaction\":\"Reaction\",\"rollOtherSpellDamage\":\"none\",\"promptDamageRoll\":true,\"gmHide3dDice\":false,\"ghostRolls\":false,\"gmConsumeResource\":true,\"consumeResource\":true,\"accelKeysOverride\":true,\"enableddbGL\":false,\"showReactionChatMessage\":true,\"gmLateTargeting\":false,\"lateTargeting\":false,\"addWounded\":0,\"addDead\":true,\"autoFailSavesFriendly\":false,\"worldKeyMappings\":false,\"fixStickyKeys\":true,\"toggleOptionalRules\":false,\"displaySaveAdvantage\":true,\"quickSettings\":true,\"recordAOO\":\"all\",\"enforceReactions\":\"all\",\"displayHitResultNumeric\":false,\"enforceBonusActions\":\"none\",\"rollAlternate\":false,\"playerDamageCard\":\"none\"}"
+  },
+  {
+    "key": "midi-qol.CriticalDamage",
+    "value": "\"default\""
+  },
+  {
+    "key": "midi-qol.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "midi-qol.notificationVersion",
+    "value": "\"0.9.01\""
+  },
+  {
+    "key": "midi-qol.showGM",
+    "value": "true"
+  },
+  {
+    "key": "monks-active-tiles.drop-item",
+    "value": "false"
+  },
+  {
+    "key": "monks-active-tiles.fix-action-names",
+    "value": "true"
+  },
+  {
+    "key": "monks-little-details.actor-sounds",
+    "value": "\"none\""
+  },
+  {
+    "key": "monks-little-details.add-extra-statuses",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.close-combat-when-done",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.combat-position",
+    "value": "\"\""
+  },
+  {
+    "key": "monks-little-details.opencombat",
+    "value": "\"none\""
+  },
+  {
+    "key": "monks-little-details.play-next-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-little-details.play-turn-sound",
+    "value": "true"
+  },
+  {
+    "key": "monks-little-details.round-chatmessages",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.scene-palette",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.show-combat-cr",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.show-start",
+    "value": "false"
+  },
+  {
+    "key": "monks-little-details.sort-statuses",
+    "value": "\"columns\""
+  },
+  {
+    "key": "moulinette-core.browseMode",
+    "value": "\"byPack\""
+  },
+  {
+    "key": "moulinette-core.debugScanAssets",
+    "value": "true"
+  },
+  {
+    "key": "moulinette-tiles.macroCompendium",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.favorites",
+    "value": "{\"default\":{\"icon\":\"fas fa-heart\",\"list\":[{\"pub\":\"Venatus Maps\",\"pack\":\"Dungeon Assets\",\"asset\":\"Shadow/Statue 4a.webp\"}]},\"history\":{\"icon\":\"fas fa-history\",\"list\":[{\"pub\":\"Venatus Maps\",\"pack\":\"Underwater Assets 2\",\"asset\":\"Reefs/Coral Formation 1.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Underwater Assets 2\",\"asset\":\"Reefs/Coral Formation 3.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Underwater Assets 2\",\"asset\":\"Reefs/Coral Formation 9.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Cabal Dungeon\",\"asset\":\"maps/rathji/bonehorn-dwarven-fortress/bdf_decor_balista+bolts.webp\"},{\"pub\":\"caeora\",\"pack\":\"assets\",\"asset\":\"battlefield/catapult.webp\"},{\"pub\":\"PogS Props\",\"pack\":\"DiA 16 Blood War\",\"asset\":\"Demon Princes/Demon_Prince_Demogorgon.webp\"},{\"pub\":\"JanLoos\",\"pack\":\"Tokens\",\"asset\":\"8a-Water-Elemental.webp\"},{\"pub\":\"Caeora\",\"pack\":\"Assets\",\"asset\":\"battlefield/catapult.webp\"},{\"pub\":\"Caeora\",\"pack\":\"Assets\",\"asset\":\"battlefield/catapult_rocks_no_shadow.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-4x4-curve2.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-both.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_004.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_001.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_002.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_003.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_023.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-up.webp\"},{\"pub\":\"JBO\",\"pack\":\"Collected Tokens\",\"asset\":\"Demogorgon/demogorgon_huge_fiend_01.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 12\",\"asset\":\"FA_Assets/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Earthy_Slab_A4_1x1.webp\"},{\"pub\":\"Dungeon In A Box\",\"pack\":\"Maps\",\"asset\":\"1-12_ruined_tower_map_(web).webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/mansion/mansion-ruined/mm lvl1 2100x1300 100ppi tower damaged2.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/mansion/mansion-ruined/mm lvl2 2100x1300 100ppi tower damaged2.webp\"},{\"pub\":\"Dungeon In A Box\",\"pack\":\"Tiles\",\"asset\":\"large-stone-rubble.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A14_2x2.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A20_4x2.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A19_2x3.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A29_3x3.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A18_2x2.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A12_2x2.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Slate_Wood_Ashen_A34_4x3.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/mansion/mansion-unfurnished/mm lvl2 2100x1300 100ppi tower unfurnished2.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/mansion/mansion-unfurnished/mm lvl1 2100x1300 100ppi tower unfurnished2.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/tower/teleporter-200dpi.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/tower/tower-lvl02-magic.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium\",\"asset\":\"maps/tower/tower-lvl99-roof-alt1.webp\"},{\"pub\":\"CriticalConcepts\",\"pack\":\"Doors N Floors Pack\",\"asset\":\"Silver_Door_1.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"builders pack 06\",\"asset\":\"Mapmaking/Artificial/Permanent_Structures/Windows/Window_Metal_Rusty_P_1x1.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"builders pack 06\",\"asset\":\"Mapmaking/Artificial/Permanent_Structures/Windows/Arrowslits/Arrowslit_Stone_01_A1_1x1.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/castle/towers/stairs/tower-stiars-stone-curved-down.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Artificial assets\",\"asset\":\"textures/objects/TC Artificial Assets/TC Stairs/TC_Curved Stairs Stone_3x4.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Academy Assets\",\"asset\":\"Misc/Teleportation Circle 2b.webp\"},{\"pub\":\"CriticalConcepts\",\"pack\":\"Cultist Pack\",\"asset\":\"Wooden_Wallshelf_Walnut_4.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"remaster update 02\",\"asset\":\"FA_Assets/Structures/Walls_and_Curbs/Wall_Wood_A/Wall_Wood_Dark_A_Straight_B_2x1.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"remaster update 02\",\"asset\":\"FA_Assets/Structures/Walls_and_Curbs/Wall_Wood_A/Wall_Wood_Ashen_A_Straight_A_3x1.webp\"},{\"pub\":\"JBO\",\"pack\":\"Collected Tokens\",\"asset\":\"Cultist Pack/Simple_Wood_Door_1_Walnut_4.webp\"},{\"pub\":\"Forgotten Adventures\",\"pack\":\"Furniture Pack 1\",\"asset\":\"Cupboard Door - Wood - Light.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/castle/towers/stairs/tower-stiars-wood-curved-up.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Cabal Dungeon\",\"asset\":\"maps/baileywiki/brick-and-stone/bbs_wall_curved__2x.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Essenheim Manor and Ruins\",\"asset\":\"assets/Ruins/TC_Broken Furniture Asset Pack_BedFrameBroken02.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Baleine Casino\",\"asset\":\"assets/TC_Bed Gothic Gold_2x2.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Artificial assets\",\"asset\":\"textures/objects/TC Artificial Assets/TC Indoor Space/TC Furniture/TC Cabinets, Closets & Cupboards/TC_Furnishings 2 Asset Pack_Wardrobe.webp\"},{\"pub\":\"Forgotten Adventures\",\"pack\":\"Furniture Pack 1\",\"asset\":\"Wardrobe - Wood - C - Dark.webp\"},{\"pub\":\"JBO\",\"pack\":\"Collected Tokens\",\"asset\":\"Cultist Pack/Wooden_Desk_Teak_2.webp\"},{\"pub\":\"CSUAC\",\"pack\":\"Token Pack\",\"asset\":\"Furniture/Tables/Wooden Ruined (Cover)/WalnutBurl_small_ern_kpl-b.webp\"},{\"pub\":\"CSUAC\",\"pack\":\"Token Pack\",\"asset\":\"Furniture/Benches/Pews Ruined (Cover)/oak_meta-b.webp\"},{\"pub\":\"JBO\",\"pack\":\"Collected Tokens\",\"asset\":\"Rustic Furniture Assets Free Pack/without-shadows/Bench4RuinedBroken.webp\"},{\"pub\":\"JBO\",\"pack\":\"Collected Tokens\",\"asset\":\"Rustic Furniture Assets 2 Free Pack/with-shadows/TableSquareOneRuined.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 14\",\"asset\":\"FA_Assets/Furniture/Tables/Round_Tables/Broken/Table_Round_Broken_Wood_Light_A1_2x2.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 14\",\"asset\":\"FA_Assets/Furniture/Seating/Stools/Broken/Stool_Broken_Wood_Ashen_A2_1x1.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 14\",\"asset\":\"FA_Assets/Furniture/Seating/Chairs/Broken/Chair_Broken_Wood_Dark_B2_1x1.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Basics assets Free Sample\",\"asset\":\"TC_Basics Asset Pack_BookShelfFull.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Artificial assets\",\"asset\":\"textures/objects/TC Artificial Assets/TC Indoor Space/TC Carpets & Rugs/TC_Grecian Key Rug 09_2x2.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Furniture Assets 2\",\"asset\":\"Shadow/Hearth.webp\"},{\"pub\":\"ForgottenAdventures\",\"pack\":\"dungeon decor 11 Part2\",\"asset\":\"FA_Assets/Rubble/Rubble_Piles/Mixed/Rubble_Pile_Stone_Earthy_Wood_Ashen_A26_2x2.webp\"},{\"pub\":\"Caeora\",\"pack\":\"Assets\",\"asset\":\"castle/fireplace.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Artificial assets\",\"asset\":\"textures/objects/TC Artificial Assets/TC Indoor Space/TC Furniture/TC Fireplaces, Chimneys & Forges/TC_Blacksmith Assets Pack_Fireplace.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Cabal Dungeon\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-up.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Cabal Dungeon\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-down.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_005.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_006.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_007.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_008.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_009.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_010.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_011.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_012.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_013.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_014.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_017.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_016.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_015.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_018.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_019.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_020.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_021.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_022.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_023a.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_024.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_026a.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_026b.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_025.webp\"},{\"pub\":\"ROLL20\",\"pack\":\"markers red on ivory\",\"asset\":\"ROLL20 - Token_Markers_Red_on_Ivory/marker_023b.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-down.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Dungeon Assets\",\"asset\":\"Statue 8.webp\"},{\"pub\":\"Dungeon In A Box\",\"pack\":\"Tiles\",\"asset\":\"campfire_2.webp\"},{\"pub\":\"The Gorgon\",\"pack\":\"Animated Flames Pack 1\",\"asset\":\"campfire.webm\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-down-relocate.webp\"},{\"pub\":\"Baileywiki\",\"pack\":\"Baileywiki Maps Premium Towns\",\"asset\":\"maps/active-tiles/active-tile-1x1-stair-up-relocate.webp\"},{\"pub\":\"Venatus Maps\",\"pack\":\"Travel Assets\",\"asset\":\"Campsite/Tent 13a.webp\"},{\"pub\":\"Tom Cartos\",\"pack\":\"Artificial assets\",\"asset\":\"textures/objects/TC Artificial Assets/TC Magical & Cultists Items/TC_Magic Dome Asset Pack_Dome02.webp\"}]}}"
+  },
+  {
+    "key": "moulinette.tileActorId",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.tileActorType",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.tileSize",
+    "value": "75"
+  },
+  {
+    "key": "moulinette.userId",
+    "value": "\"\""
+  },
+  {
+    "key": "moulinette.winPosForge",
+    "value": "{\"width\":943,\"height\":898,\"left\":1617,\"top\":331,\"scale\":null,\"zIndex\":109}"
+  },
+  {
+    "key": "navbar-tweaks.nav-name-role",
+    "value": "\"4\""
+  },
+  {
+    "key": "navbar-tweaks.navbar-role",
+    "value": "\"4\""
+  },
+  {
+    "key": "permission_viewer.migrated",
+    "value": "1"
+  },
+  {
+    "key": "pings.image",
+    "value": "null"
+  },
+  {
+    "key": "pings.key",
+    "value": "null"
+  },
+  {
+    "key": "pings.keyMove",
+    "value": "null"
+  },
+  {
+    "key": "pings.lastVersion",
+    "value": "\"1.2.2\""
+  },
+  {
+    "key": "resourcesplus.globalLimit",
+    "value": "9"
+  },
+  {
+    "key": "resourcesplus.migratedLocalLimit",
+    "value": "true"
+  },
+  {
+    "key": "resourcesplus.showAll",
+    "value": "true"
+  },
+  {
+    "key": "scene-packer.exportToMoulinetteAuthor",
+    "value": "\"\""
+  },
+  {
+    "key": "scene-packer.exportToMoulinetteDiscord",
+    "value": "\"\""
+  },
+  {
+    "key": "scene-packer.exportToMoulinetteEmail",
+    "value": "\"\""
+  },
+  {
+    "key": "scene-packer.exportToMoulinetteTags",
+    "value": "[\"\"]"
+  },
+  {
+    "key": "scene-packer.exportToMoulinetteThemes",
+    "value": "[\"\"]"
+  },
+  {
+    "key": "smart-doors.dataVersion",
+    "value": "\"1.1.0\""
+  },
+  {
+    "key": "tidy5e-sheet.activeEffectsMarker",
+    "value": "true"
+  },
+  {
+    "key": "tidy5e-sheet.contextRollButtons",
+    "value": "true"
+  },
+  {
+    "key": "tidy5e-sheet.editGmAlwaysEnabled",
+    "value": "true"
+  },
+  {
+    "key": "tidy5e-sheet.exhaustionEffectsEnabled",
+    "value": "\"tidy5e\""
+  },
+  {
+    "key": "tidy5e-sheet.hiddenDeathSavesEnabled",
+    "value": "true"
+  },
+  {
+    "key": "tidy5e-sheet.quantityAlwaysShownEnabled",
+    "value": "true"
+  },
+  {
+    "key": "tidy5e-sheet.restingForNpcsEnabled",
+    "value": "true"
+  },
+  {
+    "key": "times-up.Debug",
+    "value": "\"none\""
+  },
+  {
+    "key": "token-action-hud.hideLongerActions",
+    "value": "true"
+  },
+  {
+    "key": "token-info-icons.allPassiveSenses",
+    "value": "true"
+  },
+  {
+    "key": "token-variants.compendiumMapper",
+    "value": "{\"compendium\":\"world.temp\",\"missingOnly\":false,\"diffImages\":false,\"showImages\":false,\"incKeywords\":true,\"cache\":true,\"autoApply\":true,\"autoDisplayArtSelect\":false,\"syncImages\":true}"
+  },
+  {
+    "key": "token-variants.imgurClientId",
+    "value": "\"\""
+  },
+  {
+    "key": "token-variants.popupSettings",
+    "value": "{\"twoPopups\":false,\"twoPopupsNoDialog\":true,\"disableActorPortraitArtSelect\":false,\"characterDisable\":true,\"npcDisable\":false,\"vehicleDisable\":true,\"disableAutoPopupOnActorCreate\":true,\"disableAutoPopupOnTokenCreate\":true,\"disableAutoPopupOnTokenCopyPaste\":false}"
+  },
+  {
+    "key": "token-variants.randomizerSettings",
+    "value": "{\"actorCreate\":false,\"tokenCreate\":false,\"tokenCopyPaste\":false,\"diffImages\":false,\"tokenName\":true,\"keywords\":true,\"shared\":true,\"representedActorDisable\":false,\"linkedActorDisable\":false,\"characterDisable\":false,\"npcDisable\":false,\"vehicleDisable\":false,\"popupOnDisable\":false}"
+  },
+  {
+    "key": "token-variants.searchFilterSettings",
+    "value": "{\"portraitFilterInclude\":\"[Portrait]\",\"portraitFilterExclude\":\"[Token]\",\"portraitFilterRegex\":\"\",\"tokenFilterInclude\":\"[Token]\",\"tokenFilterExclude\":\"[Portrait]\",\"tokenFilterRegex\":\"\",\"generalFilterInclude\":\".webp\",\"generalFilterExclude\":\"\",\"generalFilterRegex\":\".*(Portrait|Token)\"}"
+  },
+  {
+    "key": "token-variants.searchPaths",
+    "value": "[]"
+  },
+  {
+    "key": "tokenmagic.migration",
+    "value": "\"0.4.3\""
+  },
+  {
+    "key": "tokenmagic.presets",
+    "value": "[{\"name\":\"bevel\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"bevel\",\"filterId\":\"bevel\",\"rotation\":0,\"thickness\":5,\"lightColor\":16711680,\"lightAlpha\":0.8,\"shadowColor\":65280,\"shadowAlpha\":0.5,\"animated\":{\"rotation\":{\"active\":true,\"clockWise\":true,\"loopDuration\":1600,\"animType\":\"syncRotation\"}}}]},{\"name\":\"adjustment\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"adjustment\",\"filterId\":\"adjustment\",\"saturation\":1.5,\"brightness\":1.5,\"contrast\":2,\"gamma\":2,\"red\":4,\"green\":0.25,\"blue\":0.25,\"alpha\":1,\"animated\":{\"alpha\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"syncCosOscillation\",\"val1\":0.15,\"val2\":1}}}]},{\"name\":\"dropshadow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"shadow\",\"filterId\":\"dropshadow\",\"rotation\":35,\"blur\":2,\"quality\":5,\"distance\":20,\"alpha\":0.7,\"padding\":10,\"shadowOnly\":false,\"color\":0,\"animated\":{\"blur\":{\"active\":true,\"loopDuration\":1500,\"animType\":\"syncCosOscillation\",\"val1\":2,\"val2\":3},\"rotation\":{\"active\":true,\"loopDuration\":150,\"animType\":\"syncSinOscillation\",\"val1\":33,\"val2\":35}}}]},{\"name\":\"outline\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"outline\",\"filterId\":\"outline\",\"padding\":10,\"color\":15622197,\"thickness\":1,\"quality\":5,\"animated\":{\"thickness\":{\"active\":true,\"loopDuration\":800,\"animType\":\"syncCosOscillation\",\"val1\":1,\"val2\":6}}}]},{\"name\":\"glow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"glow\",\"filterId\":\"glow\",\"outerStrength\":7,\"innerStrength\":0,\"color\":24576,\"quality\":0.5,\"padding\":10,\"animated\":{\"color\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"colorOscillation\",\"val1\":12288,\"val2\":65280}}}]},{\"name\":\"bloom\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xbloom\",\"filterId\":\"bloom\",\"threshold\":0.35,\"bloomScale\":0,\"brightness\":1,\"blur\":0.1,\"padding\":10,\"quality\":15,\"blendMode\":0,\"animated\":{\"bloomScale\":{\"active\":true,\"loopDuration\":2000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":2.1},\"threshold\":{\"active\":false,\"loopDuration\":1000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":1.9}}}]},{\"name\":\"distortion\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"distortion\",\"filterId\":\"distortion\",\"maskPath\":\"modules/tokenmagic/fx/assets/distortion-1.png\",\"maskSpriteScaleX\":5,\"maskSpriteScaleY\":5,\"padding\":20,\"animated\":{\"maskSpriteX\":{\"active\":true,\"speed\":0.05,\"animType\":\"move\"},\"maskSpriteY\":{\"active\":true,\"speed\":0.07,\"animType\":\"move\"}}}]},{\"name\":\"oldfilm\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"oldfilm\",\"filterId\":\"oldfilm\",\"sepia\":0.6,\"noise\":0.2,\"noiseSize\":1,\"scratch\":0.8,\"scratchDensity\":0.5,\"scratchWidth\":1.2,\"vignetting\":0.9,\"vignettingAlpha\":0.6,\"vignettingBlur\":0.2,\"animated\":{\"seed\":{\"active\":true,\"animType\":\"randomNumber\",\"val1\":0,\"val2\":1},\"vignetting\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":2000,\"val1\":0.2,\"val2\":0.4}}},{\"filterType\":\"outline\",\"filterId\":\"oldfilm\",\"color\":0,\"thickness\":0}]},{\"name\":\"twist\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"twist\",\"filterId\":\"twist\",\"radiusPercent\":120,\"angle\":0,\"animated\":{\"angle\":{\"active\":true,\"animType\":\"sinOscillation\",\"loopDuration\":10000,\"val1\":-1.8849555921538759,\"val2\":1.8849555921538759}}}]},{\"name\":\"bulge\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"bulgepinch\",\"filterId\":\"bulge\",\"padding\":150,\"strength\":0,\"zIndex\":2,\"radiusPercent\":200,\"animated\":{\"strength\":{\"active\":true,\"animType\":\"cosOscillation\",\"loopDuration\":2000,\"val1\":0,\"val2\":0.45}}}]},{\"name\":\"blur\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"blur\",\"filterId\":\"blur\",\"padding\":10,\"quality\":4,\"blur\":0,\"blurX\":0,\"blurY\":0,\"animated\":{\"blurX\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":500,\"val1\":0,\"val2\":6},\"blurY\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":750,\"val1\":0,\"val2\":6}}}]},{\"name\":\"zoomblur\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zoomblur\",\"filterId\":\"zoomblur\",\"strength\":0.15,\"innerRadiusPercent\":65,\"radiusPercent\":100,\"padding\":30,\"animated\":{\"innerRadiusPercent\":{\"active\":true,\"animType\":\"sinOscillation\",\"loopDuration\":500,\"val1\":65,\"val2\":75}}}]},{\"name\":\"shockwave\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"shockwave\",\"filterId\":\"shockwave\",\"time\":0,\"amplitude\":8,\"wavelength\":75,\"radius\":500,\"brightness\":1.5,\"speed\":25,\"padding\":0,\"animated\":{\"time\":{\"animType\":\"cosOscillation\",\"active\":true,\"loopDuration\":1800,\"val1\":0,\"val2\":10}}}]},{\"name\":\"zapshadow\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"zapshadow\",\"alphaTolerance\":0.45}]},{\"name\":\"rays\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"rays\",\"time\":0,\"color\":13598720,\"alpha\":0.5,\"divisor\":32,\"anchorX\":0,\"anchorY\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}}}]},{\"name\":\"fog\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fog\",\"filterId\":\"fog\",\"color\":0,\"density\":0.65,\"time\":0,\"dimX\":1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":2.2,\"animType\":\"move\"}}}]},{\"name\":\"fumes\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"fumes\",\"color\":8421504,\"time\":0,\"blend\":8,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"electric\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"electric\",\"filterId\":\"electric\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}}}]},{\"name\":\"fire\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"fire\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":2,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.4,\"animType\":\"syncCosOscillation\"}}}]},{\"name\":\"waves\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"waves\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.015,\"frequency\":120,\"color\":16777215,\"maxIntensity\":2.5,\"minIntensity\":0.9,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"},\"anchorX\":{\"active\":false,\"val1\":0.15,\"val2\":0.85,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":20000},\"anchorY\":{\"active\":false,\"val1\":0.15,\"val2\":0.85,\"animType\":\"syncSinOscillation\",\"loopDuration\":20000}}}]},{\"name\":\"flood\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"flood\",\"filterId\":\"flood\",\"time\":0,\"color\":8379,\"billowy\":0.43,\"tintIntensity\":0.72,\"glint\":0.31,\"scale\":70,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}}}]},{\"name\":\"smoke\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"smoke\",\"filterId\":\"smoke\",\"color\":5282269,\"time\":0,\"blend\":2,\"dimX\":0.1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.009,\"animType\":\"move\"}}}]},{\"name\":\"images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"images\",\"time\":0,\"nbImage\":4,\"alphaImg\":1,\"alphaChr\":0,\"blend\":4,\"ampX\":0.1,\"ampY\":0.1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"chaos-images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"chaos-images\",\"time\":0,\"nbImage\":4,\"alphaImg\":1,\"alphaChr\":0,\"blend\":4,\"ampX\":0.1,\"ampY\":0.1,\"padding\":80,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"},\"ampX\":{\"active\":true,\"val1\":0,\"val2\":0.3,\"chaosFactor\":0.03,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":2000},\"ampY\":{\"active\":true,\"val1\":0,\"val2\":0.3,\"chaosFactor\":0.04,\"animType\":\"syncChaoticOscillation\",\"loopDuration\":1650},\"alphaChr\":{\"active\":true,\"animType\":\"randomNumberPerLoop\",\"val1\":0,\"val2\":1,\"loopDuration\":250},\"alphaImg\":{\"active\":true,\"animType\":\"randomNumberPerLoop\",\"val1\":0.8,\"val2\":1,\"loopDuration\":250},\"nbImage\":{\"active\":true,\"val1\":1,\"val2\":9,\"animType\":\"syncSinOscillation\",\"loopDuration\":1400}}}]},{\"name\":\"spectral-images\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"images\",\"filterId\":\"spectral-images\",\"time\":0,\"blend\":4,\"nbImage\":4,\"padding\":100,\"alphaImg\":0.5,\"alphaChr\":0,\"ampX\":0.1,\"ampY\":0.1,\"animated\":{\"time\":{\"speed\":0.001,\"animType\":\"move\"},\"ampX\":{\"val1\":0,\"val2\":0.22,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500},\"ampY\":{\"val1\":0,\"val2\":0.24,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500,\"pauseBetweenDuration\":2500},\"alphaChr\":{\"val1\":1,\"val2\":0,\"animType\":\"syncCosOscillation\",\"loopDuration\":2500},\"alphaImg\":{\"val1\":0.2,\"val2\":0.8,\"animType\":\"syncSinOscillation\",\"loopDuration\":2500}}}]},{\"name\":\"hexa-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"hexa-field\",\"shieldType\":2,\"gridPadding\":1.5,\"color\":13369548,\"time\":0,\"blend\":3,\"intensity\":1,\"lightAlpha\":0.5,\"lightSize\":0.5,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"fire-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"fire-field\",\"shieldType\":1,\"gridPadding\":2,\"color\":15041872,\"time\":0,\"blend\":2,\"intensity\":1.15,\"lightAlpha\":2,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"smoke-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"smoke-field\",\"shieldType\":3,\"gridPadding\":1.5,\"color\":6343792,\"time\":0,\"blend\":2,\"intensity\":0.9,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"earth-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"earth-field\",\"shieldType\":4,\"gridPadding\":2,\"color\":12292208,\"time\":0,\"blend\":1,\"intensity\":1.25,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"earth-field-top\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"earth-field-top\",\"shieldType\":5,\"gridPadding\":3,\"color\":11184810,\"time\":0,\"blend\":5,\"intensity\":1.9,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"zIndex\":5,\"chromatic\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"air-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"air-field\",\"shieldType\":6,\"gridPadding\":1.2,\"color\":7377066,\"time\":0,\"blend\":14,\"intensity\":1,\"lightAlpha\":1,\"lightSize\":0.7,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"magic-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"magic-field\",\"shieldType\":7,\"gridPadding\":1,\"color\":16777215,\"time\":0,\"blend\":10,\"intensity\":0.8,\"lightAlpha\":1,\"lightSize\":0.45,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"chromatic-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"chromatic-field\",\"shieldType\":8,\"gridPadding\":2,\"color\":11184810,\"time\":0,\"blend\":0,\"intensity\":1,\"lightAlpha\":0,\"lightSize\":0,\"scale\":1,\"radius\":1,\"chromatic\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0045,\"animType\":\"move\"}}}]},{\"name\":\"water-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"water-field\",\"shieldType\":9,\"gridPadding\":1.2,\"color\":2145262,\"time\":0,\"blend\":4,\"intensity\":1,\"lightAlpha\":0.7,\"lightSize\":0.5,\"scale\":0.6,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"evil-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"evil-field\",\"shieldType\":9,\"gridPadding\":2,\"color\":16723984,\"time\":0,\"blend\":5,\"intensity\":1,\"lightAlpha\":4,\"lightSize\":0.8,\"scale\":0.5,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"lightSize\":{\"val1\":0.4,\"val2\":1.5,\"animType\":\"syncCosOscillation\",\"loopDuration\":5000}}}]},{\"name\":\"grid-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"grid-field\",\"shieldType\":11,\"gridPadding\":2,\"color\":52428,\"time\":0,\"blend\":2,\"intensity\":1,\"lightAlpha\":1,\"lightSize\":0.3,\"scale\":0.5,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"warp-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"warp-field\",\"shieldType\":12,\"gridPadding\":2,\"color\":16777215,\"time\":0,\"blend\":2,\"intensity\":1,\"lightAlpha\":0.8,\"lightSize\":0.5,\"scale\":0.9,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"color-field\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"field\",\"filterId\":\"color-field\",\"shieldType\":13,\"gridPadding\":2,\"color\":52224,\"time\":0,\"blend\":14,\"intensity\":1,\"lightAlpha\":0,\"lightSize\":0,\"scale\":1,\"radius\":1,\"chromatic\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"sunburst\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"sunburst\",\"time\":0,\"color\":16759552,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":36,\"intensity\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6}}}]},{\"name\":\"clover\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"clover\",\"time\":0,\"color\":65280,\"blend\":9,\"dimX\":0.05,\"dimY\":0.05,\"anchorX\":0.5,\"anchorY\":0.5,\"divisor\":4,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6},\"anchorY\":{\"animType\":\"syncSinOscillation\",\"loopDuration\":6000,\"val1\":0.4,\"val2\":0.6}}}]},{\"name\":\"scan\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"scan\",\"time\":0,\"color\":16777215,\"blend\":5,\"dimX\":20,\"dimY\":20,\"anchorX\":0.5,\"anchorY\":0,\"divisor\":8,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}}}]},{\"name\":\"blue-rays\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"blue-rays\",\"time\":0,\"color\":1061119,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":24,\"intensity\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0002,\"animType\":\"move\"},\"anchorX\":{\"animType\":\"syncCosOscillation\",\"loopDuration\":18000,\"val1\":0.05,\"val2\":0.95},\"anchorY\":{\"animType\":\"syncSinOscillation\",\"loopDuration\":18000,\"val1\":0.05,\"val2\":0.95}}}]},{\"name\":\"spectral-body\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"spectral-body\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"scale\":0.9,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"},\"color\":{\"active\":true,\"loopDuration\":6000,\"animType\":\"colorOscillation\",\"val1\":16777215,\"val2\":43775}}}]},{\"name\":\"mantle-of-madness\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"mantle-of-madness\",\"color\":37119,\"time\":0,\"blend\":5,\"intensity\":0.0001,\"spectral\":false,\"scale\":7,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":30000,\"val1\":0.0001,\"val2\":4},\"scale\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":30000,\"val1\":7,\"val2\":1}}}]},{\"name\":\"drift-in-plans\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"drift-in-plans\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.035,\"frequency\":80,\"color\":16777215,\"maxIntensity\":1.5,\"minIntensity\":0.5,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"},\"anchorX\":{\"active\":true,\"val1\":0.35,\"val2\":0.65,\"animType\":\"syncCosOscillation\",\"loopDuration\":10000},\"anchorY\":{\"active\":true,\"val1\":0.35,\"val2\":0.65,\"animType\":\"syncSinOscillation\",\"loopDuration\":10000}}},{\"filterType\":\"liquid\",\"filterId\":\"drift-in-plans\",\"color\":16711680,\"time\":0,\"blend\":6,\"intensity\":5,\"spectral\":false,\"scale\":2.5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"color\":{\"active\":true,\"loopDuration\":9000,\"animType\":\"colorOscillation\",\"val1\":16711680,\"val2\":16777215}}}]},{\"name\":\"fire-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"fire-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"fire-aura\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":2,\"subAuraIntensity\":1.5,\"threshold\":0.4,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"glacial-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"glacial-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"glacial-aura\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":3,\"time\":0,\"auraIntensity\":0.8,\"subAuraIntensity\":0.25,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":4.7,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.45,\"val2\":0.65,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}}]},{\"name\":\"anti-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"anti-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"anti-aura\",\"auraType\":2,\"color\":328965,\"thickness\":2.7,\"scale\":7,\"time\":0,\"auraIntensity\":5,\"subAuraIntensity\":2,\"threshold\":0.08,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"},\"auraIntensity\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":5,\"val2\":0},\"subAuraIntensity\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":2,\"val2\":0},\"color\":{\"active\":true,\"loopDuration\":6000,\"animType\":\"syncColorOscillation\",\"val1\":328965,\"val2\":2097152},\"threshold\":{\"active\":true,\"loopDuration\":1500,\"animType\":\"syncCosOscillation\",\"val1\":0.02,\"val2\":0.5}}}]},{\"name\":\"pure-fire-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"pure-fire-aura\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":2,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.4,\"animType\":\"syncCosOscillation\"}}},{\"filterType\":\"zapshadow\",\"filterId\":\"pure-fire-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-fire-aura\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":2,\"subAuraIntensity\":1.5,\"threshold\":0.4,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"pure-fire-aura-2\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"pure-fire-aura-2\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-fire-aura-2\",\"auraType\":2,\"color\":9449488,\"thickness\":9.8,\"scale\":4,\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":0.3,\"threshold\":0.5,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":3.6}}},{\"filterType\":\"fire\",\"filterId\":\"pure-fire-aura-2\",\"intensity\":1,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0024,\"animType\":\"move\"},\"intensity\":{\"active\":true,\"loopDuration\":15000,\"val1\":0.8,\"val2\":3,\"animType\":\"syncCosOscillation\"},\"amplitude\":{\"active\":true,\"loopDuration\":4400,\"val1\":1,\"val2\":1.6,\"animType\":\"syncCosOscillation\"}}}]},{\"name\":\"pure-ice-aura\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"zapshadow\",\"filterId\":\"pure-ice-aura\",\"alphaTolerance\":0.5},{\"filterType\":\"xglow\",\"filterId\":\"pure-ice-aura\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":10,\"time\":0,\"auraIntensity\":0.25,\"subAuraIntensity\":1,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":3.3,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.45,\"val2\":0.65,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}},{\"filterType\":\"smoke\",\"filterId\":\"pure-ice-aura\",\"color\":8441087,\"time\":0,\"blend\":2,\"dimX\":0.3,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.006,\"animType\":\"move\"},\"dimX\":{\"val1\":0.4,\"val2\":0.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}}}]},{\"name\":\"pixelate\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"pixel\",\"filterId\":\"pixelate\",\"sizeX\":2.5,\"sizeY\":2.5}]},{\"name\":\"Watery Surface\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"flood\",\"filterId\":\"Watery Surface\",\"time\":0,\"color\":8379,\"billowy\":0.43,\"tintIntensity\":0.72,\"glint\":0.31,\"scale\":70,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Protoplasm\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Protoplasm\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"scale\":1.4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Watery Surface 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Watery Surface 2\",\"color\":2140910,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":false,\"scale\":1.4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Smoky Area\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"smoke\",\"filterId\":\"Smoky Area\",\"color\":11184810,\"time\":0,\"blend\":2,\"dimX\":1,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Shock\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"electric\",\"filterId\":\"Shock\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Annihilating Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xray\",\"filterId\":\"Annihilating Rays\",\"time\":0,\"color\":16759552,\"blend\":9,\"dimX\":1,\"dimY\":1,\"anchorX\":0,\"anchorY\":0,\"divisor\":6,\"intensity\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0012,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Classic Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Classic Rays\",\"time\":0,\"color\":13598720,\"alpha\":0.5,\"divisor\":32,\"anchorX\":0,\"anchorY\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Smoke Filaments\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"Smoke Filaments\",\"color\":8421504,\"time\":0,\"blend\":8,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Flames\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Thick Fog\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Thick Fog\",\"autoFit\":false,\"color\":3182847,\"time\":0,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0006,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Glowing Outline\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"glow\",\"filterId\":\"Glowing Outline\",\"outerStrength\":5.5,\"innerStrength\":0,\"color\":24576,\"quality\":0.5,\"padding\":10,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":5.5,\"val2\":1.5}},\"zOrder\":1}]},{\"name\":\"Waves\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.015,\"frequency\":120,\"color\":16777215,\"maxIntensity\":2.5,\"minIntensity\":0.9,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Waves 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves 2\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.014,\"frequency\":400,\"color\":16777215,\"maxIntensity\":2.4,\"minIntensity\":0.8,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0385,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Waves 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"wave\",\"filterId\":\"Waves 3\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.017,\"frequency\":35,\"color\":16777215,\"maxIntensity\":2.6,\"minIntensity\":0.9,\"padding\":20,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0085,\"animType\":\"move\"}},\"zOrder\":1}]},{\"name\":\"Zone : Fire\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Fire\",\"auraType\":1,\"color\":9449488,\"scale\":1.5,\"time\":0,\"auraIntensity\":1.8,\"subAuraIntensity\":0.25,\"threshold\":0.6,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}},\"zOrder\":1},{\"filterType\":\"fire\",\"filterId\":\"Zone : Fire\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1,\"time\":0,\"blend\":2,\"fireBlend\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Zone : Electricity\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/white-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Electricity\",\"auraType\":2,\"color\":3158064,\"scale\":1.5,\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":0.9,\"threshold\":0,\"discard\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":2}},\"zOrder\":1},{\"filterType\":\"electric\",\"filterId\":\"Zone : Electricity\",\"color\":16777215,\"time\":0,\"blend\":1,\"intensity\":5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.002,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Zone : Blizzard\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"xglow\",\"filterId\":\"Zone : Blizzard\",\"auraType\":1,\"color\":5282269,\"thickness\":4.5,\"scale\":5,\"time\":0,\"auraIntensity\":0.25,\"subAuraIntensity\":1,\"threshold\":0.5,\"discard\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"},\"thickness\":{\"val1\":2,\"val2\":3.3,\"animType\":\"cosOscillation\",\"loopDuration\":3000},\"subAuraIntensity\":{\"val1\":0.05,\"val2\":0.1,\"animType\":\"cosOscillation\",\"loopDuration\":6000},\"auraIntensity\":{\"val1\":0.9,\"val2\":2.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}},\"zOrder\":1},{\"filterType\":\"smoke\",\"filterId\":\"Zone : Blizzard\",\"color\":8441087,\"time\":0,\"blend\":2,\"dimY\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.005,\"animType\":\"move\"},\"dimX\":{\"val1\":0.4,\"val2\":0.2,\"animType\":\"cosOscillation\",\"loopDuration\":3000}},\"zOrder\":2}]},{\"name\":\"Bulging Out\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"bulgepinch\",\"filterId\":\"Bulging Out\",\"padding\":150,\"strength\":0,\"radiusPercent\":200,\"animated\":{\"strength\":{\"active\":true,\"animType\":\"cosOscillation\",\"loopDuration\":2000,\"val1\":0,\"val2\":0.45}},\"zOrder\":1}]},{\"name\":\"Blurred Texture\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"blur\",\"filterId\":\"Blurred Texture\",\"padding\":25,\"quality\":4,\"blur\":0,\"blurX\":0,\"blurY\":0,\"animated\":{\"blurX\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":500,\"val1\":0,\"val2\":6},\"blurY\":{\"active\":true,\"animType\":\"syncCosOscillation\",\"loopDuration\":750,\"val1\":0,\"val2\":6}},\"zOrder\":1}]},{\"name\":\"Bloomed Texture\",\"library\":\"tmfx-template\",\"params\":[{\"filterType\":\"xbloom\",\"filterId\":\"Bloomed Texture\",\"threshold\":0.35,\"bloomScale\":0,\"brightness\":1,\"blur\":0.1,\"padding\":10,\"quality\":15,\"blendMode\":0,\"animated\":{\"bloomScale\":{\"active\":true,\"loopDuration\":2000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":2.1},\"threshold\":{\"active\":false,\"loopDuration\":1000,\"animType\":\"syncCosOscillation\",\"val1\":0,\"val2\":1.9}},\"zOrder\":1}]},{\"name\":\"Wild Magic\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Wild Magic\",\"color\":16711680,\"time\":0,\"blend\":6,\"intensity\":5,\"spectral\":false,\"scale\":2.5,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0018,\"animType\":\"move\"}},\"zOrder\":1},{\"filterType\":\"wave\",\"filterId\":\"Wild Magic\",\"time\":0,\"anchorX\":0.5,\"anchorY\":0.5,\"strength\":0.014,\"frequency\":10,\"color\":16777215,\"maxIntensity\":1.3,\"minIntensity\":0.6,\"padding\":10,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0065,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 1\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 1\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":16777215,\"thickness\":2,\"div2\":5,\"time\":98.8,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":98.8,\"val2\":99.7}},\"zOrder\":1}]},{\"name\":\"Spider Web 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 2\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":1},{\"filterType\":\"liquid\",\"filterId\":\"Spider Web 2\",\"color\":16711680,\"time\":0,\"blend\":4,\"intensity\":8,\"spectral\":false,\"scale\":0.2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 3\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"time\":100,\"zOrder\":1},{\"filterType\":\"liquid\",\"filterId\":\"Spider Web 3\",\"color\":16711680,\"time\":0,\"blend\":1,\"intensity\":4,\"spectral\":true,\"scale\":0.2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0005,\"animType\":\"move\"}},\"zOrder\":2}]},{\"name\":\"Spider Web 4\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 4\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":13421772,\"thickness\":2,\"div2\":5,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":98.8,\"val2\":99.7}}},{\"filterType\":\"glow\",\"filterId\":\"Spider Web 4\",\"outerStrength\":7,\"innerStrength\":3,\"color\":24576,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7,\"val2\":4}}}]},{\"name\":\"Spider Web 5\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"web\",\"filterId\":\"Spider Web 5\",\"anchorX\":0.5,\"anchorY\":0.5,\"color\":10395294,\"thickness\":0.8,\"div2\":7,\"div1\":15,\"time\":97.8,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"loopDuration\":5000,\"animType\":\"cosOscillation\",\"val1\":97.8,\"val2\":98.2}}},{\"filterType\":\"glow\",\"filterId\":\"Spider Web 5\",\"outerStrength\":6,\"innerStrength\":3,\"color\":10395294,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":6,\"val2\":4}}}]},{\"name\":\"Ripples : Solar\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Solar\",\"color\":13206066,\"time\":98.8,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}}]},{\"name\":\"Ripples : Shadow Sun\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Shadow Sun\",\"color\":6560636,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}}]},{\"name\":\"Ripples : Scars\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"ripples\",\"filterId\":\"Ripples : Scars\",\"color\":2516765,\"time\":98.8,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0005}}},{\"filterType\":\"glow\",\"filterId\":\"Ripples : Scars\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":2516765,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Fairy Fireflies : Calm\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Calm\",\"color\":2516765,\"time\":98.8,\"zOrder\":1,\"distortion\":0.25,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}}]},{\"name\":\"Fairy Fireflies : Excited\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Excited\",\"color\":31969,\"time\":98.8,\"zOrder\":1,\"distortion\":0.25,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0012}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Fireflies : Excited\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":31969,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Fairy Fireflies : Frenetic\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-strong-opacity.png\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Fireflies : Frenetic\",\"color\":14803200,\"time\":98.8,\"zOrder\":1,\"distortion\":1.45,\"scale\":80,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0016}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Fireflies : Frenetic\",\"outerStrength\":7.5,\"innerStrength\":0.5,\"color\":14803200,\"quality\":0.5,\"padding\":10,\"zOrder\":2,\"animated\":{\"outerStrength\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"syncCosOscillation\",\"val1\":7.5,\"val2\":5.5}}}]},{\"name\":\"Living Fluid\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Living Fluid\",\"color\":14872211,\"autoFit\":false,\"time\":0,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}}]},{\"name\":\"Living Fluid 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfog\",\"filterId\":\"Living Fluid 2\",\"color\":14872211,\"autoFit\":false,\"time\":0,\"zOrder\":1,\"alphaDiscard\":true,\"animated\":{\"time\":{\"active\":true,\"animType\":\"move\",\"speed\":0.0007}}},{\"filterType\":\"glow\",\"filterId\":\"Living Fluid 2\",\"outerStrength\":0.5,\"innerStrength\":0.5,\"color\":14872211,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Living Fluid 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Living Fluid 3\",\"color\":6937746,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":true,\"alphaDiscard\":true,\"scale\":1.4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}}]},{\"name\":\"Living Fluid 4\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"liquid\",\"filterId\":\"Living Fluid 4\",\"color\":15107115,\"time\":0,\"blend\":8,\"intensity\":4,\"spectral\":false,\"alphaDiscard\":true,\"scale\":1.4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Living Fluid 4\",\"outerStrength\":1,\"innerStrength\":1,\"color\":15107115,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Flames 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames 2\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}}]},{\"name\":\"Flames 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-pure.png\",\"params\":[{\"filterType\":\"fire\",\"filterId\":\"Flames 3\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}},{\"filterType\":\"xglow\",\"filterId\":\"Flames 3\",\"auraType\":1,\"color\":9449488,\"thickness\":2,\"scale\":\"3\",\"time\":0,\"auraIntensity\":1,\"subAuraIntensity\":1,\"threshold\":0.4,\"discard\":true,\"zOrder\":2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0027,\"animType\":\"move\"},\"thickness\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"cosOscillation\",\"val1\":2,\"val2\":5}}}]},{\"name\":\"Classic Rays 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Classic Rays 2\",\"time\":0,\"color\":13598720,\"alpha\":1,\"divisor\":16,\"anchorX\":0,\"anchorY\":0,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}}]},{\"name\":\"Fire Rays\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-pure.png\",\"params\":[{\"filterType\":\"ray\",\"filterId\":\"Fire Rays\",\"time\":0,\"color\":13598720,\"alpha\":1,\"divisor\":24,\"anchorX\":0,\"anchorY\":0,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Fire Rays\",\"outerStrength\":1,\"innerStrength\":1,\"color\":9461760,\"quality\":0.5,\"padding\":10,\"zOrder\":2},{\"filterType\":\"fire\",\"filterId\":\"Fire Rays\",\"intensity\":1.5,\"color\":16777215,\"amplitude\":1.3,\"time\":0,\"blend\":2,\"fireBlend\":1,\"zOrder\":3,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0016,\"animType\":\"move\"}}}]},{\"name\":\"Splash 1\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"splash\",\"filterId\":\"Splash 1\",\"color\":9438469,\"time\":25,\"seed\":0.1,\"splashFactor\":5,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":1},{\"filterType\":\"glow\",\"filterId\":\"Splash 1\",\"outerStrength\":3.3,\"innerStrength\":1,\"color\":9438469,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Splash 2\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"splash\",\"filterId\":\"Splash 2\",\"color\":9438469,\"time\":25,\"seed\":0.1,\"splashFactor\":3,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Splash 2\",\"outerStrength\":2,\"innerStrength\":1,\"color\":9438469,\"quality\":0.5,\"padding\":10,\"zOrder\":2}]},{\"name\":\"Splash 3\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"fumes\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":0,\"blend\":4,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.001,\"animType\":\"move\"}}},{\"filterType\":\"splash\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":25,\"seed\":0.1,\"splashFactor\":3,\"spread\":10,\"blend\":2,\"dimX\":1,\"dimY\":1,\"cut\":true,\"textureAlphaBlend\":true,\"padding\":200,\"zOrder\":2,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0009,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Splash 3\",\"outerStrength\":3,\"innerStrength\":0.5,\"color\":3690878,\"quality\":0.5,\"padding\":10,\"zOrder\":3},{\"filterType\":\"liquid\",\"filterId\":\"Splash 3\",\"color\":3690878,\"time\":0,\"blend\":8,\"intensity\":3,\"spectral\":false,\"scale\":2,\"zOrder\":4,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 4 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 4 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 5 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 5 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"alphaDiscard\":true,\"discardThreshold\":0.35,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Flames 6 (colorizable)\",\"library\":\"tmfx-template\",\"defaultTexture\":\"modules/tokenmagic/fx/assets/templates/black-tone-vstrong-opacity.png\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Flames 6 (colorizable)\",\"color\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"inlay\":false,\"alphaDiscard\":true,\"discardThreshold\":0.35,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}},{\"filterType\":\"blur\",\"filterId\":\"Flames 6 (colorizable)\",\"padding\":30,\"quality\":4,\"blur\":2,\"zOrder\":2}]},{\"name\":\"Fire v2\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2\",\"time\":0,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1.5,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (chromatic)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (chromatic)\",\"time\":0,\"blend\":2,\"amplitude\":1.1,\"dispersion\":0,\"chromatic\":true,\"scaleX\":1,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (sparks)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (sparks)\",\"time\":0,\"blend\":2,\"amplitude\":0.7,\"dispersion\":0,\"chromatic\":false,\"scaleX\":2,\"scaleY\":2,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (coldfire)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (coldfire)\",\"time\":0,\"color\":12312046,\"blend\":1,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Fire v2 (blackfire)\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Fire v2 (blackfire)\",\"time\":0,\"color\":7368816,\"blend\":11,\"amplitude\":1,\"dispersion\":2.2,\"chromatic\":false,\"scaleX\":2.5,\"scaleY\":2,\"inlay\":false,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.0015,\"animType\":\"move\"}}}]},{\"name\":\"Super-Frost\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Super-Frost\",\"color\":11322821,\"time\":0,\"blend\":5,\"amplitude\":1,\"dispersion\":0,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.002,\"animType\":\"move\"}}}]},{\"name\":\"Super-Heat\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"xfire\",\"filterId\":\"Super-Heat\",\"time\":0,\"blend\":5,\"amplitude\":0.25,\"dispersion\":-1,\"chromatic\":false,\"scaleX\":1,\"scaleY\":1,\"inlay\":true,\"animated\":{\"time\":{\"active\":true,\"speed\":-0.009,\"animType\":\"move\"}}}]},{\"name\":\"Evade Stance\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Evade Stance\",\"padding\":50,\"animated\":{\"translationX\":{\"animType\":\"sinOscillation\",\"val1\":-0.125,\"val2\":0.125,\"loopDuration\":1400},\"translationY\":{\"animType\":\"cosOscillation\",\"val1\":-0.035,\"val2\":0.035,\"loopDuration\":1400}}}]},{\"name\":\"Saving Roll\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Saving Roll\",\"autoDestroy\":true,\"padding\":80,\"pivotX\":0.5,\"pivotY\":0.55,\"animated\":{\"translationX\":{\"animType\":\"sinOscillation\",\"val1\":-0.22,\"val2\":0.22,\"loops\":1,\"loopDuration\":1250},\"rotation\":{\"animType\":\"sinOscillation\",\"val1\":-360,\"val2\":360,\"loops\":1,\"loopDuration\":1250},\"scaleY\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":1.3,\"loops\":2,\"loopDuration\":625},\"scaleX\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":1.4,\"loops\":2,\"loopDuration\":625}}}]},{\"name\":\"Dodge Jump\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"transform\",\"filterId\":\"Dodge Jump\",\"autoDestroy\":true,\"padding\":80,\"animated\":{\"translationY\":{\"animType\":\"cosOscillation\",\"val1\":0,\"val2\":-0.225,\"loops\":1,\"loopDuration\":900},\"scaleY\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":0.65,\"loops\":2,\"loopDuration\":450},\"scaleX\":{\"animType\":\"cosOscillation\",\"val1\":1,\"val2\":0.65,\"loops\":2,\"loopDuration\":450}}}]},{\"name\":\"Fairy Outline\",\"library\":\"tmfx-main\",\"params\":[{\"filterType\":\"globes\",\"filterId\":\"Fairy Outline\",\"time\":0,\"color\":3178734,\"distortion\":0.9,\"scale\":320,\"alphaDiscard\":true,\"zOrder\":1,\"animated\":{\"time\":{\"active\":true,\"speed\":0.0015,\"animType\":\"move\"}}},{\"filterType\":\"glow\",\"filterId\":\"Fairy Outline\",\"outerStrength\":4,\"innerStrength\":0,\"color\":16723968,\"quality\":0.5,\"padding\":10,\"animated\":{\"color\":{\"active\":true,\"loopDuration\":3000,\"animType\":\"colorOscillation\",\"val1\":16723968,\"val2\":3211008}}}]}]"
+  },
+  {
+    "name": "Gamemaster",
+    "core": {
+      "color": "#ccc728",
+      "permissions": {},
+      "role": 4
+    },
+    "flags": {
+      "dice-so-nice": {
+        "welcomeMessageShown": true
+      },
+      "dfreds-effects-panel": {
+        "topPosition": 5
+      }
+    }
+  }
+]

@@ -1,0 +1,518 @@
+{
+  "name": "Custom Convenient Effects",
+  "type": "consumable",
+  "img": "modules/dfreds-convenient-effects/images/magic-palm.svg",
+  "data": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "autoDestroy": false
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": null,
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "consumableType": "potion"
+  },
+  "effects": [
+    {
+      "_id": "vlWwVg7AVvMsK1vD",
+      "changes": [
+        {
+          "key": "flags.midi-qol.grants.advantage.attack.all",
+          "mode": 5,
+          "value": "1",
+          "priority": "20"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/skills/yellow_01.jpg",
+      "label": "Advantage",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null,
+      "selectedKey": "flags.midi-qol.grants.advantage.attack.all"
+    },
+    {
+      "_id": "wHVKTxab4AokR2yE",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/skills/weapon_18.jpg",
+      "label": "Arcane Ward",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        },
+        "convenientDescription": "Applies custom effects"
+      },
+      "tint": null
+    },
+    {
+      "_id": "57U3szZ1ar0WGfO5",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/skills/blood_07.jpg",
+      "label": "Bloodlust",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "Applies custom effects",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null
+    },
+    {
+      "_id": "WUm9iYXW165aNu7y",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/spells/runes-magenta-1.jpg",
+      "label": "Brand of Castigation",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        },
+        "convenientDescription": "Applies custom effects"
+      },
+      "tint": null
+    },
+    {
+      "_id": "M6pHqDJiJaMhYm9K",
+      "changes": [],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/spells/heal-sky-3.jpg",
+      "label": "Death Ward",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null
+    },
+    {
+      "_id": "SiWXksuVfsGq2dsz",
+      "changes": [
+        {
+          "key": "flags.midi-qol.grants.disadvantage.attack.all",
+          "mode": 2,
+          "value": "1",
+          "priority": "20"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "systems/dnd5e/icons/skills/violet_05.jpg",
+      "label": "Disadvantage",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null,
+      "selectedKey": "flags.midi-qol.grants.disadvantage.attack.all"
+    },
+    {
+      "_id": "0O92dPihuvSg0SPC",
+      "changes": [
+        {
+          "key": "flags.midi-qol.disadvantage.attack.all",
+          "mode": 5,
+          "value": "1",
+          "priority": "20"
+        },
+        {
+          "key": "flags.midi-qol.grants.disadvantage.attack.all",
+          "mode": 5,
+          "value": "1",
+          "priority": "20"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "https://assets.forge-vtt.com/60d61d34d28f090bc36517c0/Images/icons/dust-cloud.svg",
+      "label": "Heavily Obscured",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null,
+      "selectedKey": [
+        "flags.midi-qol.disadvantage.attack.all",
+        "flags.midi-qol.grants.disadvantage.attack.all"
+      ]
+    },
+    {
+      "_id": "uBs1CEhM16uXpVg6",
+      "changes": [
+        {
+          "key": "data.attributes.movement.all",
+          "mode": 0,
+          "value": "0",
+          "priority": "20"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null
+      },
+      "icon": "icons/skills/melee/strike-sword-slashing-red.webp",
+      "label": "Sentinel",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": ""
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null,
+      "selectedKey": "data.attributes.movement.all"
+    },
+    {
+      "_id": "Flafah4nf2reLsMz",
+      "changes": [
+        {
+          "key": "data.attributes.ac.value",
+          "mode": 2,
+          "value": "@data.abilities.int.mod",
+          "priority": "20"
+        },
+        {
+          "key": "data.attributes.movement.walk",
+          "mode": 2,
+          "value": "10",
+          "priority": "20"
+        },
+        {
+          "key": "flags.midi-qol.concentrationSaveBonus",
+          "mode": 2,
+          "value": "@data.abilities.int.mod",
+          "priority": "20"
+        },
+        {
+          "key": "flags.midi-qol.advantage.skill.acr",
+          "mode": 0,
+          "value": "1",
+          "priority": "20"
+        }
+      ],
+      "disabled": false,
+      "duration": {
+        "startTime": null,
+        "rounds": 10
+      },
+      "icon": "systems/dnd5e/icons/skills/weapon_11.jpg",
+      "label": "Bladesong",
+      "origin": "Item.NYN4SnbvOBLiuxTd",
+      "transfer": true,
+      "flags": {
+        "isCustomConvenient": true,
+        "customEffectDescription": "",
+        "core": {
+          "statusId": "Convenient Effect: Bladesong"
+        },
+        "dae": {
+          "stackable": "none",
+          "durationExpression": "",
+          "macroRepeat": "none",
+          "specialDuration": [],
+          "transfer": true
+        },
+        "ActiveAuras": {
+          "isAura": false,
+          "aura": "None",
+          "radius": null,
+          "alignment": "",
+          "type": "",
+          "ignoreSelf": false,
+          "height": false,
+          "hidden": false,
+          "displayTemp": false,
+          "hostile": false,
+          "onlyOnce": false
+        }
+      },
+      "tint": null,
+      "selectedKey": [
+        "data.attributes.ac.value",
+        "data.attributes.movement.walk",
+        "flags.midi-qol.concentrationSaveBonus",
+        "flags.midi-qol.advantage.skill.acr"
+      ]
+    }
+  ],
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Item.XmtAyIFsAdjcDYDY"
+    },
+    "exportSource": {
+      "world": "test-world",
+      "system": "dnd5e",
+      "coreVersion": "9.269",
+      "systemVersion": "1.5.7"
+    }
+  }
+}
