@@ -7,7 +7,7 @@ Anyway I have divided my configuration into sections, that describe the modules 
 
 You will see pictures and settings that may not look exactly like your own.  This is either becasue of a module I use that you do not OR the version of the module has changed and therefore the associated settings have been modified.  You can let me know in the issues log if anything extreemly out of date, but it would be a full time job to keep up with the changes to modules at the rate the community makes them.
 
-Some modules allow you to export thier settings to a .json file, I have added my .json files to this repository as well.
+Some modules allow you to export thier settings to a .json file, I plan to add my .json files to this repository as well.
 
 Some modules are REQUIRED for others to work.  I have left those off the list and do not change thier settings, though if a module is OPTIONAL I do list it here. 
 
