@@ -99,7 +99,7 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Changelogs-&-Conflicts">```Changelogs & Conflicts```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Cleaner Sheet Title Bar```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Cleaner-title-bar">```Cleaner Title Bar```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Combat-Focus">```Combat Focus```</a>
   
@@ -115,49 +115,47 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Force-Client-Settings">```Force Client Settings```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Forien's Copy Enviroment```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Forien's-Copy-Environment">```Forien's Copy Environment```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Image Hover```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Image-Hover">```Image Hover```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Less Fog```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Less-Fog">```Less Fog```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Lordu's Custom Dice for Dice so Nice```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Multilevel Tokens```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Multilevel-Tokens">```Multilevel Tokens```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Navbar Tweeks```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Navbar-Tweeks">```Navbar Tweeks```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Nice More Dice```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Parallaxia```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Parallaxia">```Parallaxia```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Permission Viewer```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Permission-Viewer">```Permission Viewer```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Ping Logger```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Ping-Logger">```Ping Logger```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Pings```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Pings">```Pings```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```PopOut!```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/PopOut!">```PopOut!```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Select tool everywhere```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Select-tool-everywhere">```Select tool everywhere```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Sequencer```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Sequencer">```Sequencer```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Settings Extender```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Smart-Doors">```Smart Doors```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Smart Doors```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Tidy5e-Sheet">```Tidy5e Sheet```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Tidy5e Sheet```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Tidy-UI">```Tidy UI```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Action HUD```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Action-HUD">```Token Action HUD```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Attacher```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Attacher">```Token Attacher```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Info Icons```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Info-Icons">```Token Info Icons```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Token Variant Art```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Warpgate```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Variant-Art">```Token Variant Art```</a>
   
 <p>&nbsp;</p>  
 </details>
@@ -168,9 +166,9 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/D&D-Beyond-Importer">```DnD Beyond Importer```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```HTML to Scene```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/HTML-To-Scene">```HTML to Scene```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Universal Battlemap Importer```</a> 
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Universal-Battlemap-Importer">```Universal Battlemap Importer```</a> 
 <p>&nbsp;</p>  
 </details>
 
@@ -195,15 +193,15 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
 <summary> CONTENT CREATORS I LOVE </summary>
 <p>&nbsp;</p>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Atropos' Patreon Battlemaps Pack```</a>
+  <a href="https://www.patreon.com/foundryvtt/posts">```Atropos' Patreon Battlemaps Pack```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Bailywiki (everything)```</a>
+  <a href="https://www.patreon.com/baileywiki/posts">```Bailywiki (everything)```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```CyrensMaps of Undermountain```</a>
+  <a href="https://www.patreon.com/CyrensMaps">```CyrensMaps of Undermountain```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```The Griffon's Saddlebag```</a>
+  <a href="https://www.patreon.com/the_griffons_saddlebag/posts">```The Griffon's Saddlebag```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```The Mad Cartographer```</a>
+  <a href="https://www.patreon.com/themadcartographer/posts">```The Mad Cartographer```</a>
   
 <p>&nbsp;</p>  
 </details>
