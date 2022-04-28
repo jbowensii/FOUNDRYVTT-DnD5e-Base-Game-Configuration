@@ -1,15 +1,16 @@
 # FOUNDRYVTT-DnD5e-Base-Game-Configuration
+
 So I have been asked numerous times to tell folks how I have setupt FoundryVTT for a reasonable amount of automation.
 I do not claim to be an expert but after a few years I know just the right amount to be dangerous. 😊
-Anyway I have divided my configuration into sections, that describe the modules I use the configurations and general why.  I also plan to endevor to provide links directly to the authors module pages. 
+Anyway I have divided my configuration into sections, that describe the modules I use the configurations and general why. I also plan to endevor to provide links directly to the authors module pages.
 
-<b>Please remember to click on the collapsible icon <img width="15" alt="image" src="https://user-images.githubusercontent.com/76136571/164912225-f8485d94-56bd-4e1d-baf9-58873cb426a4.png"> to open a section and then select the ```button``` to go to the associated wiki page.</b>  <p>(Each section is in Alphabetical Order)</p> 
+<b>Please remember to click on the collapsible icon <img width="15" alt="image" src="https://user-images.githubusercontent.com/76136571/164912225-f8485d94-56bd-4e1d-baf9-58873cb426a4.png"> to open a section and then select the `button` to go to the associated wiki page.</b> <p>(Each section is in Alphabetical Order)</p>
 
-You will see pictures and settings that may not look exactly like your own.  This is either becasue of a module I use that you do not OR the version of the module has changed and therefore the associated settings have been modified.  You can let me know in the issues log if anything extreemly out of date, but it would be a full time job to keep up with the changes to modules at the rate the community makes them.
+You will see pictures and settings that may not look exactly like your own. This is either becasue of a module I use that you do not OR the version of the module has changed and therefore the associated settings have been modified. You can let me know in the issues log if anything extreemly out of date, but it would be a full time job to keep up with the changes to modules at the rate the community makes them.
 
 Some modules allow you to export thier settings to a .json file, I plan to add my .json files to this repository as well.
 
-Some modules are REQUIRED for others to work.  I have left those off the list and do not change thier settings, though if a module is OPTIONAL I do list it here. 
+Some modules are REQUIRED for others to work. I have left those off the list and do not change thier settings, though if a module is OPTIONAL I do list it here.
 
 <details>
 <summary> D&D 5e GAME AUTOMATION | EASE OF PLAY</summary>
@@ -17,7 +18,7 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/About-Time">```About Time```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Active-Auras">```Active Auras```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Active-Auras">```Active-Auras```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Active-Token-Effects">```Active Token Effects```</a>
   
@@ -41,7 +42,7 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Illandril's-Inventory-Sorter-(5e)">```Illandril's Inventory Sorter (5e)```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Item-Collection">```Item Containers```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Item-Collection">```Item Collection```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Item-Macro">```Item Macro```</a>
   
@@ -53,7 +54,7 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Magic-Items">```Magic Items```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Midi-Quality-of-Life-Improvements">```Midi QOL```</a>
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Midi-Quality-of-Life-Improvements">```Midi Quality of Life Improvements```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Midi-SRD">```Midi SRD```</a>
   
@@ -176,16 +177,16 @@ Some modules are REQUIRED for others to work.  I have left those off the list an
 <summary> STILL EVALUATING </summary>
 <p>&nbsp;</p>
 
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Better Roofs```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Conditional Visibility```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Show Notes```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Tagger```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">```Wall Height```</a>
-  
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Better Roofs`</a>
+
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Conditional Visibility`</a>
+
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Show Notes`</a>
+
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Tagger`</a>
+
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Wall Height`</a>
+
 <p>&nbsp;</p>  
 </details>
 
