@@ -210,5 +210,7 @@ Some modules are REQUIRED for others to work. I have left those off the list and
 <summary> HEY I WOULD LIKE TO CONTRIBUTE </summary>
 <p>&nbsp;</p>
 Great!  Your options are:
+
 - Open an issue if you see a mistake, want something explained (I will try), ask about adding a module (in case I missed something cool) or tell me about a conflict you have had.
+
 - Get a branch and ask for me to merge changes back in.
