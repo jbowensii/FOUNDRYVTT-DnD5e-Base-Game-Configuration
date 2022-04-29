@@ -95,6 +95,8 @@ Some modules are REQUIRED for others to work. I have left those off the list and
 <p>&nbsp;</p>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/5e-Sheet-Resource-Plus">```5e Sheet Resources Plus```</a>
+
+  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Argon-Combat-Hud">```Argon - Combat HUD```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Better-Target">```Better Target```</a>
   
@@ -117,8 +119,6 @@ Some modules are REQUIRED for others to work. I have left those off the list and
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Force-Client-Settings">```Force Client Settings```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Forien's-Copy-Environment">```Forien's Copy Environment```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Image-Hover">```Image Hover```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Less-Fog">```Less Fog```</a>
   
@@ -149,8 +149,6 @@ Some modules are REQUIRED for others to work. I have left those off the list and
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Tidy5e-Sheet">```Tidy5e Sheet```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Tidy-UI">```Tidy UI```</a>
-  
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Action-HUD">```Token Action HUD```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Token-Attacher">```Token Attacher```</a>
   
