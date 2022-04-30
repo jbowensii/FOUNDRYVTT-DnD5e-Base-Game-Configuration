@@ -189,6 +189,10 @@ Some modules are REQUIRED for others to work. I have left those off the list and
   
 <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Argon - Combat HUD`</a>
 
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Torch`</a>
+  
+<a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Unknown--Module">`Perfect Vision`</a>
+
 <p>&nbsp;</p>  
 </details>
 
