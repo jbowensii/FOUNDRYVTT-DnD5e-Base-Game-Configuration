@@ -124,8 +124,6 @@ Some modules are REQUIRED for others to work. I have left those off the list and
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Lordu's Custom Dice for Dice so Nice```</a>
   
-  <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Multilevel-Tokens">```Multilevel Tokens```</a>
-  
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Navbar-Tweeks">```Navbar Tweeks```</a>
   
   <a href="https://github.com/jbowensii/FOUNDRYVTT-DnD5e-Base-Game-Configuration/wiki/Dice-So-Nice!">```Nice More Dice```</a>
